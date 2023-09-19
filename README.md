@@ -17,5 +17,13 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 
 ##  📺 	YouTube Videos
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JlsWOrv9-9k"><img width="140px" src="https://i.ytimg.com/vi/JlsWOrv9-9k/mqdefault.jpg"></a></td>
-
+<td><a href="https://www.youtube.com/watch?v=JlsWOrv9-9k">04 Lab RePyApAuto. Aclaraciones S. Taylor, Ec. Recta, Inter. Lineal y Polinomio de Newton y MAE.</a><br/>Sep 14, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=yo-SfepXUNM"><img width="140px" src="https://i.ytimg.com/vi/yo-SfepXUNM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yo-SfepXUNM">12. Expresiones regulares</a><br/>Sep 13, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=dQ7tvKuZ-9k"><img width="140px" src="https://i.ytimg.com/vi/dQ7tvKuZ-9k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dQ7tvKuZ-9k">9. Esperanza de una v.a.</a><br/>Sep 11, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=x6vcVgmmav8"><img width="140px" src="https://i.ytimg.com/vi/x6vcVgmmav8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=x6vcVgmmav8">03 Lab RePyApAuto. Ultimas generalidades de python y Empezamos con Polinomio de Taylor / Mclaurin.</a><br/>Sep 10, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=SIQMF-9ET6w"><img width="140px" src="https://i.ytimg.com/vi/SIQMF-9ET6w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SIQMF-9ET6w">8. Ejemplos de probabilidad condicional y Bayes</a><br/>Sep 7, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
