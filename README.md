@@ -8,7 +8,7 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Sección 01  [Probabilidad y estadística]()
 
 ### Laboratorio
-- Seccion 01  [Primer sección de laboratorio]()
+- Seccion 01  [Primer sección de laboratorio](https://github.com/7122-Aprendizaje-Automatizado/7112-Aprendizaje-Automatizado-/tree/main/Secci%C3%B3n01-Laboratorio)
 
 
 ## 📫 Contacto
