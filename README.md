@@ -16,14 +16,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hDLrg_MOA-0"><img width="140px" src="https://i.ytimg.com/vi/hDLrg_MOA-0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DIe1Lb1jhaw"><img width="140px" src="https://i.ytimg.com/vi/DIe1Lb1jhaw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=DIe1Lb1jhaw">L03 - Proteinas</a><br/>Sep 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=KWo65KErmr4"><img width="140px" src="https://i.ytimg.com/vi/KWo65KErmr4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KWo65KErmr4">L05 - BioMoleculas</a><br/>Sep 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hDLrg_MOA-0"><img width="140px" src="https://i.ytimg.com/vi/hDLrg_MOA-0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hDLrg_MOA-0">14. Ejemplos con expresiones regulares</a><br/>Sep 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=BND6FmkAPVs"><img width="140px" src="https://i.ytimg.com/vi/BND6FmkAPVs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BND6FmkAPVs">13. Distribución de Poisson y ejemplo de cumpleaños</a><br/>Sep 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6ZdLIkF_k-I"><img width="140px" src="https://i.ytimg.com/vi/6ZdLIkF_k-I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6ZdLIkF_k-I">10. Paradigma bayesiano</a><br/>Sep 19, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=JlsWOrv9-9k"><img width="140px" src="https://i.ytimg.com/vi/JlsWOrv9-9k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JlsWOrv9-9k">04 Lab RePyApAuto. Aclaraciones S. Taylor, Ec. Recta, Inter. Lineal y Polinomio de Newton y MAE.</a><br/>Sep 14, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=yo-SfepXUNM"><img width="140px" src="https://i.ytimg.com/vi/yo-SfepXUNM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yo-SfepXUNM">12. Expresiones regulares</a><br/>Sep 13, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
