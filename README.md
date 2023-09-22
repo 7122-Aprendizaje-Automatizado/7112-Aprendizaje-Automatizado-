@@ -16,14 +16,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hfF496LqTsA"><img width="140px" src="https://i.ytimg.com/vi/hfF496LqTsA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=15c2iyXhcXU"><img width="140px" src="https://i.ytimg.com/vi/15c2iyXhcXU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=15c2iyXhcXU">12. Teorema del límite central</a><br/>Sep 22, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=IoIuNwmPeC8"><img width="140px" src="https://i.ytimg.com/vi/IoIuNwmPeC8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=IoIuNwmPeC8">13. Bayes ingenuo - caso de uso</a><br/>Sep 22, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vwYgpdfM3KQ"><img width="140px" src="https://i.ytimg.com/vi/vwYgpdfM3KQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vwYgpdfM3KQ">11.  Variable Normal</a><br/>Sep 22, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=z8lCVtidWoE"><img width="140px" src="https://i.ytimg.com/vi/z8lCVtidWoE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=z8lCVtidWoE">16. Enemplos con regex 3 y programación dinámica</a><br/>Sep 22, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hfF496LqTsA"><img width="140px" src="https://i.ytimg.com/vi/hfF496LqTsA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hfF496LqTsA">15. Leyes de Mendel 1</a><br/>Sep 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=uJf8w3BvQzk"><img width="140px" src="https://i.ytimg.com/vi/uJf8w3BvQzk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uJf8w3BvQzk">05 Lab RePyApAuto. Dudas Tarea, Forma de Lagrange y B-splines.</a><br/>Sep 21, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=DIe1Lb1jhaw"><img width="140px" src="https://i.ytimg.com/vi/DIe1Lb1jhaw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DIe1Lb1jhaw">L03 - Proteinas</a><br/>Sep 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=KWo65KErmr4"><img width="140px" src="https://i.ytimg.com/vi/KWo65KErmr4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KWo65KErmr4">L05 - BioMoleculas</a><br/>Sep 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=hDLrg_MOA-0"><img width="140px" src="https://i.ytimg.com/vi/hDLrg_MOA-0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=hDLrg_MOA-0">14. Ejemplos con expresiones regulares</a><br/>Sep 19, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
