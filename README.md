@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=uJf8w3BvQzk"><img width="140px" src="https://i.ytimg.com/vi/uJf8w3BvQzk/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hfF496LqTsA"><img width="140px" src="https://i.ytimg.com/vi/hfF496LqTsA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hfF496LqTsA">15. Leyes de Mendel 1</a><br/>Sep 22, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=uJf8w3BvQzk"><img width="140px" src="https://i.ytimg.com/vi/uJf8w3BvQzk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uJf8w3BvQzk">05 Lab RePyApAuto. Dudas Tarea, Forma de Lagrange y B-splines.</a><br/>Sep 21, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DIe1Lb1jhaw"><img width="140px" src="https://i.ytimg.com/vi/DIe1Lb1jhaw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DIe1Lb1jhaw">L03 - Proteinas</a><br/>Sep 20, 2023</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=KWo65KErmr4">L05 - BioMoleculas</a><br/>Sep 20, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hDLrg_MOA-0"><img width="140px" src="https://i.ytimg.com/vi/hDLrg_MOA-0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hDLrg_MOA-0">14. Ejemplos con expresiones regulares</a><br/>Sep 19, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BND6FmkAPVs"><img width="140px" src="https://i.ytimg.com/vi/BND6FmkAPVs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BND6FmkAPVs">13. Distribución de Poisson y ejemplo de cumpleaños</a><br/>Sep 19, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
