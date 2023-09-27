@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=15c2iyXhcXU"><img width="140px" src="https://i.ytimg.com/vi/15c2iyXhcXU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=o3hwCrKhYMQ"><img width="140px" src="https://i.ytimg.com/vi/o3hwCrKhYMQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=o3hwCrKhYMQ">14. Probabilidad TLC 2</a><br/>Sep 27, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=15c2iyXhcXU"><img width="140px" src="https://i.ytimg.com/vi/15c2iyXhcXU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=15c2iyXhcXU">12. Teorema del límite central</a><br/>Sep 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=IoIuNwmPeC8"><img width="140px" src="https://i.ytimg.com/vi/IoIuNwmPeC8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IoIuNwmPeC8">13. Bayes ingenuo - caso de uso</a><br/>Sep 22, 2023</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=vwYgpdfM3KQ">11.  Variable Normal</a><br/>Sep 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=z8lCVtidWoE"><img width="140px" src="https://i.ytimg.com/vi/z8lCVtidWoE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=z8lCVtidWoE">16. Enemplos con regex 3 y programación dinámica</a><br/>Sep 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=hfF496LqTsA"><img width="140px" src="https://i.ytimg.com/vi/hfF496LqTsA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=hfF496LqTsA">15. Leyes de Mendel 1</a><br/>Sep 22, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
