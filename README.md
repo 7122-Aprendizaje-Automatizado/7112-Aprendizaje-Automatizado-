@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rfNmP11FX4c"><img width="140px" src="https://i.ytimg.com/vi/rfNmP11FX4c/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ok38-n2qHvQ"><img width="140px" src="https://i.ytimg.com/vi/Ok38-n2qHvQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Ok38-n2qHvQ">15. Ejemplos de programación dinámica</a><br/>Oct 3, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=rfNmP11FX4c"><img width="140px" src="https://i.ytimg.com/vi/rfNmP11FX4c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rfNmP11FX4c">15. Bayes ingenuo</a><br/>Sep 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=o3hwCrKhYMQ"><img width="140px" src="https://i.ytimg.com/vi/o3hwCrKhYMQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=o3hwCrKhYMQ">14. Probabilidad TLC 2</a><br/>Sep 27, 2023</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=15c2iyXhcXU">12. Teorema del límite central</a><br/>Sep 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=IoIuNwmPeC8"><img width="140px" src="https://i.ytimg.com/vi/IoIuNwmPeC8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IoIuNwmPeC8">13. Bayes ingenuo - caso de uso</a><br/>Sep 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=vwYgpdfM3KQ"><img width="140px" src="https://i.ytimg.com/vi/vwYgpdfM3KQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vwYgpdfM3KQ">11.  Variable Normal</a><br/>Sep 22, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
