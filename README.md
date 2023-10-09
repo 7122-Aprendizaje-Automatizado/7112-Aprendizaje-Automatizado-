@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XLBYZ8ZZ80w"><img width="140px" src="https://i.ytimg.com/vi/XLBYZ8ZZ80w/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6VZ1izK2avs"><img width="140px" src="https://i.ytimg.com/vi/6VZ1izK2avs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6VZ1izK2avs">17. Errores Tipo I y II. Métricas de evaluación</a><br/>Oct 9, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=XLBYZ8ZZ80w"><img width="140px" src="https://i.ytimg.com/vi/XLBYZ8ZZ80w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XLBYZ8ZZ80w">16. Uso de variable normal y clasificación binaria con sigmoide</a><br/>Oct 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GZ154b--iy0"><img width="140px" src="https://i.ytimg.com/vi/GZ154b--iy0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GZ154b--iy0">17. Descubrimiento del DNA como molécula de herencia y diseño experimental</a><br/>Oct 6, 2023</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=7XG73g3LjPE">16. Uso de programación dinámica en comparación de cadenas</a><br/>Oct 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4K4LGlJbgmw"><img width="140px" src="https://i.ytimg.com/vi/4K4LGlJbgmw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4K4LGlJbgmw">06 Lab RePyApAuto. K-nn.</a><br/>Oct 5, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Ok38-n2qHvQ"><img width="140px" src="https://i.ytimg.com/vi/Ok38-n2qHvQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ok38-n2qHvQ">15. Ejemplos de programación dinámica</a><br/>Oct 3, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
