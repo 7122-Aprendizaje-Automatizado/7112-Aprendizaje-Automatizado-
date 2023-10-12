@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0mHFQ5rQoJ4"><img width="140px" src="https://i.ytimg.com/vi/0mHFQ5rQoJ4/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=p5tK4LqRrW0"><img width="140px" src="https://i.ytimg.com/vi/p5tK4LqRrW0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=p5tK4LqRrW0">19. Regresión logística</a><br/>Oct 11, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=0mHFQ5rQoJ4"><img width="140px" src="https://i.ytimg.com/vi/0mHFQ5rQoJ4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0mHFQ5rQoJ4">18. Modelos lineales</a><br/>Oct 10, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kwG5nwMTksI"><img width="140px" src="https://i.ytimg.com/vi/kwG5nwMTksI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kwG5nwMTksI">L07 Introducción a filogenias</a><br/>Oct 10, 2023</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=qCD9Lrvz4NU">L06 - Diferencia entre genética y genómica</a><br/>Oct 10, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6VZ1izK2avs"><img width="140px" src="https://i.ytimg.com/vi/6VZ1izK2avs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6VZ1izK2avs">17. Errores Tipo I y II. Métricas de evaluación</a><br/>Oct 9, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=XLBYZ8ZZ80w"><img width="140px" src="https://i.ytimg.com/vi/XLBYZ8ZZ80w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XLBYZ8ZZ80w">16. Uso de variable normal y clasificación binaria con sigmoide</a><br/>Oct 6, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
