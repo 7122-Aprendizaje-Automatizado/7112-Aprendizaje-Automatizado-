@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AB0Hxx0-6TI"><img width="140px" src="https://i.ytimg.com/vi/AB0Hxx0-6TI/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EUtt4NIksT0"><img width="140px" src="https://i.ytimg.com/vi/EUtt4NIksT0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EUtt4NIksT0">20. Verosimilitud</a><br/>Oct 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=AB0Hxx0-6TI"><img width="140px" src="https://i.ytimg.com/vi/AB0Hxx0-6TI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AB0Hxx0-6TI">23. Nociones de filogenias y similitud entre secuencias</a><br/>Oct 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LfyaH6iaT8M"><img width="140px" src="https://i.ytimg.com/vi/LfyaH6iaT8M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LfyaH6iaT8M">22. Smith Waterman</a><br/>Oct 17, 2023</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=FvHoB4ldwCw">L08 - Evolución</a><br/>Oct 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=bjMKlNUyPk8"><img width="140px" src="https://i.ytimg.com/vi/bjMKlNUyPk8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bjMKlNUyPk8">21. Needleman - Wunsch</a><br/>Oct 13, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_ig5MfxMINA"><img width="140px" src="https://i.ytimg.com/vi/_ig5MfxMINA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_ig5MfxMINA">20. Frecuencias de pares de base en DNA</a><br/>Oct 13, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
