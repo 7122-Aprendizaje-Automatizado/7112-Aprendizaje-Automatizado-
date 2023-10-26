@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Q-BDBl8AjsU"><img width="140px" src="https://i.ytimg.com/vi/Q-BDBl8AjsU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4Gun_URPw_k"><img width="140px" src="https://i.ytimg.com/vi/4Gun_URPw_k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4Gun_URPw_k">09 Lab RePyApAuto. Nuerona básica. Isomap de Mnist &lpar;random&rpar;.</a><br/>Oct 26, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Q-BDBl8AjsU"><img width="140px" src="https://i.ytimg.com/vi/Q-BDBl8AjsU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Q-BDBl8AjsU">25. Métodos Montecarlo para muestreo</a><br/>Oct 26, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2E6ChyTqEC8"><img width="140px" src="https://i.ytimg.com/vi/2E6ChyTqEC8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2E6ChyTqEC8">26. Introduccion a la regresión lineal</a><br/>Oct 26, 2023</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=ts2oJIhCqNg">24. Entrenamiento con CV</a><br/>Oct 25, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=oC5C7DFO5d8"><img width="140px" src="https://i.ytimg.com/vi/oC5C7DFO5d8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oC5C7DFO5d8">23. Función de información mutua</a><br/>Oct 23, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=A1i6aahO-8U"><img width="140px" src="https://i.ytimg.com/vi/A1i6aahO-8U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=A1i6aahO-8U">24. Ejemplos de alineamientos con NW y SM</a><br/>Oct 20, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
