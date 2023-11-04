@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TC6AHEQuEPg"><img width="140px" src="https://i.ytimg.com/vi/TC6AHEQuEPg/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_WfImCGWUZc"><img width="140px" src="https://i.ytimg.com/vi/_WfImCGWUZc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_WfImCGWUZc">L10 Estudios con DNA: Metabarcoding y metagenomas</a><br/>Nov 4, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=TC6AHEQuEPg"><img width="140px" src="https://i.ytimg.com/vi/TC6AHEQuEPg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TC6AHEQuEPg">L10 P1-Estudios con DNA: Ensamble de genomas</a><br/>Nov 3, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=969Dk6RhO0s"><img width="140px" src="https://i.ytimg.com/vi/969Dk6RhO0s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=969Dk6RhO0s">L09 Técnicas de biología molecular</a><br/>Nov 2, 2023</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=07fB68xl7F8">25. Cómputo neuronal - perceptrón</a><br/>Oct 30, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jC_Q_qfYmN0"><img width="140px" src="https://i.ytimg.com/vi/jC_Q_qfYmN0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jC_Q_qfYmN0">27. Entropía y función de información mutua</a><br/>Oct 27, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4Gun_URPw_k"><img width="140px" src="https://i.ytimg.com/vi/4Gun_URPw_k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4Gun_URPw_k">09 Lab RePyApAuto. Nuerona básica. Isomap de Mnist &lpar;random&rpar;.</a><br/>Oct 26, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
