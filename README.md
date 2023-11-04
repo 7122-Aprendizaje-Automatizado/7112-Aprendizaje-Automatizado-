@@ -17,7 +17,7 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 
 ##  📺 	YouTube Videos
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_WfImCGWUZc"><img width="140px" src="https://i.ytimg.com/vi/_WfImCGWUZc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_WfImCGWUZc">L10 Estudios con DNA: Metabarcoding y metagenomas</a><br/>Nov 4, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=_WfImCGWUZc">L10 P2-Estudios con DNA: Metabarcoding y metagenomas</a><br/>Nov 4, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TC6AHEQuEPg"><img width="140px" src="https://i.ytimg.com/vi/TC6AHEQuEPg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TC6AHEQuEPg">L10 P1-Estudios con DNA: Ensamble de genomas</a><br/>Nov 3, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=969Dk6RhO0s"><img width="140px" src="https://i.ytimg.com/vi/969Dk6RhO0s/mqdefault.jpg"></a></td>
