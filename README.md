@@ -16,14 +16,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QgNGBh-9Nrw"><img width="140px" src="https://i.ytimg.com/vi/QgNGBh-9Nrw/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9n5yyVCQ4Fw"><img width="140px" src="https://i.ytimg.com/vi/9n5yyVCQ4Fw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9n5yyVCQ4Fw">26. Compromiso Sesgo - Varianza</a><br/>Nov 8, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=WqGnfenvsRI"><img width="140px" src="https://i.ytimg.com/vi/WqGnfenvsRI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WqGnfenvsRI">29. Teoría de la Información / rev artículo</a><br/>Nov 8, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=QgNGBh-9Nrw"><img width="140px" src="https://i.ytimg.com/vi/QgNGBh-9Nrw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QgNGBh-9Nrw">28. Regresión lineal  y coeficiente de determinación</a><br/>Nov 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_WfImCGWUZc"><img width="140px" src="https://i.ytimg.com/vi/_WfImCGWUZc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_WfImCGWUZc">L10 P2-Estudios con DNA: Metabarcoding y metagenomas</a><br/>Nov 4, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TC6AHEQuEPg"><img width="140px" src="https://i.ytimg.com/vi/TC6AHEQuEPg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TC6AHEQuEPg">L10 P1-Estudios con DNA: Ensamble de genomas</a><br/>Nov 3, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=969Dk6RhO0s"><img width="140px" src="https://i.ytimg.com/vi/969Dk6RhO0s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=969Dk6RhO0s">L09 Técnicas de biología molecular</a><br/>Nov 2, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=07fB68xl7F8"><img width="140px" src="https://i.ytimg.com/vi/07fB68xl7F8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=07fB68xl7F8">25. Cómputo neuronal - perceptrón</a><br/>Oct 30, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
