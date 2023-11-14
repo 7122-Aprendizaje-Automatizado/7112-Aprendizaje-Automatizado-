@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rqY1glcS7p0"><img width="140px" src="https://i.ytimg.com/vi/rqY1glcS7p0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cFrnPye_NHQ"><img width="140px" src="https://i.ytimg.com/vi/cFrnPye_NHQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cFrnPye_NHQ">28. Perceptrón multicapa - softmax</a><br/>Nov 13, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=rqY1glcS7p0"><img width="140px" src="https://i.ytimg.com/vi/rqY1glcS7p0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rqY1glcS7p0">31. Detección de grupos y reducción de dimensión. Cluster/1</a><br/>Nov 10, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=g5ZMicw-JoE"><img width="140px" src="https://i.ytimg.com/vi/g5ZMicw-JoE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=g5ZMicw-JoE">10 Lab RePyApAuto. MLPRegressor para generar numeros y Diagrama de Voronoid.</a><br/>Nov 9, 2023</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=753ACJAPCAY">27. Cómputo neuronal - Retropropagación</a><br/>Nov 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=WnblMM45Uqg"><img width="140px" src="https://i.ytimg.com/vi/WnblMM45Uqg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WnblMM45Uqg">30. Phyloseq y revisión de tarea</a><br/>Nov 9, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9n5yyVCQ4Fw"><img width="140px" src="https://i.ytimg.com/vi/9n5yyVCQ4Fw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9n5yyVCQ4Fw">26. Compromiso Sesgo - Varianza</a><br/>Nov 8, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
