@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=WSMSPkP9nVg"><img width="140px" src="https://i.ytimg.com/vi/WSMSPkP9nVg/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MX411rBIIHM"><img width="140px" src="https://i.ytimg.com/vi/MX411rBIIHM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=MX411rBIIHM">34. Agrupamiento jerárquico y ejemplo de PCA</a><br/>Nov 24, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=WSMSPkP9nVg"><img width="140px" src="https://i.ytimg.com/vi/WSMSPkP9nVg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WSMSPkP9nVg">12 Lab RePyApAuto. Implementacion de K means y Discucion de K medoids.</a><br/>Nov 23, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ib_7ahzo6I0"><img width="140px" src="https://i.ytimg.com/vi/ib_7ahzo6I0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ib_7ahzo6I0">33. Análisis de componentes principales</a><br/>Nov 23, 2023</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=FNxYj8FOFnk">30. ConvNet / ejercicio</a><br/>Nov 23, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Nr-Nqseicr4"><img width="140px" src="https://i.ytimg.com/vi/Nr-Nqseicr4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Nr-Nqseicr4">29. ConvNet</a><br/>Nov 16, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=S5zgm7Pw0Wk"><img width="140px" src="https://i.ytimg.com/vi/S5zgm7Pw0Wk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=S5zgm7Pw0Wk">11 Lab RePyApAuto. Dudas de la tarea y mejoramos malla de clasificación.</a><br/>Nov 16, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
