@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mZsqbc_6KIk"><img width="140px" src="https://i.ytimg.com/vi/mZsqbc_6KIk/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QRKBLZRqNqY"><img width="140px" src="https://i.ytimg.com/vi/QRKBLZRqNqY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=QRKBLZRqNqY">31. Reducción de dimensión: SVD</a><br/>Nov 28, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mZsqbc_6KIk"><img width="140px" src="https://i.ytimg.com/vi/mZsqbc_6KIk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mZsqbc_6KIk">L12. Control de calidad de las secuencias</a><br/>Nov 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qI1exPZ0wyI"><img width="140px" src="https://i.ytimg.com/vi/qI1exPZ0wyI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qI1exPZ0wyI">L11 Formatos y bases de datos</a><br/>Nov 27, 2023</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=MX411rBIIHM">34. Agrupamiento jerárquico y ejemplo de PCA</a><br/>Nov 24, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=WSMSPkP9nVg"><img width="140px" src="https://i.ytimg.com/vi/WSMSPkP9nVg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WSMSPkP9nVg">12 Lab RePyApAuto. Implementacion de K means y Discucion de K medoids.</a><br/>Nov 23, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ib_7ahzo6I0"><img width="140px" src="https://i.ytimg.com/vi/ib_7ahzo6I0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ib_7ahzo6I0">33. Análisis de componentes principales</a><br/>Nov 23, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
