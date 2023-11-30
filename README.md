@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qx15JCIX7es"><img width="140px" src="https://i.ytimg.com/vi/qx15JCIX7es/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=W-21Oet-x50"><img width="140px" src="https://i.ytimg.com/vi/W-21Oet-x50/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=W-21Oet-x50">13 Lab RePyApAuto.Tecnicas de Resampling &lpar;Volver a muestrear, Remuestreo&rpar;.</a><br/>Nov 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qx15JCIX7es"><img width="140px" src="https://i.ytimg.com/vi/qx15JCIX7es/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qx15JCIX7es">32. Reducción de dimensión - PCA</a><br/>Nov 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QRKBLZRqNqY"><img width="140px" src="https://i.ytimg.com/vi/QRKBLZRqNqY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QRKBLZRqNqY">31. Reducción de dimensión: SVD</a><br/>Nov 28, 2023</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=mZsqbc_6KIk">L12. Control de calidad de las secuencias</a><br/>Nov 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qI1exPZ0wyI"><img width="140px" src="https://i.ytimg.com/vi/qI1exPZ0wyI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qI1exPZ0wyI">L11 Formatos y bases de datos</a><br/>Nov 27, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=MX411rBIIHM"><img width="140px" src="https://i.ytimg.com/vi/MX411rBIIHM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MX411rBIIHM">34. Agrupamiento jerárquico y ejemplo de PCA</a><br/>Nov 24, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
