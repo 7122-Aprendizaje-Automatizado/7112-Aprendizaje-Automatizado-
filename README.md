@@ -16,14 +16,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=W-21Oet-x50"><img width="140px" src="https://i.ytimg.com/vi/W-21Oet-x50/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=W-21Oet-x50">13 Lab RePyApAuto.Tecnicas de Resampling &lpar;Volver a muestrear, Remuestreo&rpar;.</a><br/>Nov 30, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=qx15JCIX7es"><img width="140px" src="https://i.ytimg.com/vi/qx15JCIX7es/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qx15JCIX7es">32. Reducción de dimensión - PCA</a><br/>Nov 29, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=QRKBLZRqNqY"><img width="140px" src="https://i.ytimg.com/vi/QRKBLZRqNqY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QRKBLZRqNqY">31. Reducción de dimensión: SVD</a><br/>Nov 28, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=mZsqbc_6KIk"><img width="140px" src="https://i.ytimg.com/vi/mZsqbc_6KIk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mZsqbc_6KIk">L12. Control de calidad de las secuencias</a><br/>Nov 27, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=qI1exPZ0wyI"><img width="140px" src="https://i.ytimg.com/vi/qI1exPZ0wyI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qI1exPZ0wyI">L11 Formatos y bases de datos</a><br/>Nov 27, 2023</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4zCSPQAhKpk"><img width="140px" src="https://i.ytimg.com/vi/4zCSPQAhKpk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4zCSPQAhKpk">1 - Motivación en la detección de patrones</a><br/>Feb 5, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Zph_ghd79AY"><img width="140px" src="https://i.ytimg.com/vi/Zph_ghd79AY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Zph_ghd79AY">0 - Presentación del curso</a><br/>Feb 5, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=8zvt38IVndY"><img width="140px" src="https://i.ytimg.com/vi/8zvt38IVndY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8zvt38IVndY">1 - Concepto de cómputo /1</a><br/>Feb 5, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=AgOlKVAp754"><img width="140px" src="https://i.ytimg.com/vi/AgOlKVAp754/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=AgOlKVAp754">0 - Presentación</a><br/>Feb 5, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NDhze3RViCc"><img width="140px" src="https://i.ytimg.com/vi/NDhze3RViCc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NDhze3RViCc">Sesión 28 - Prueba de hipótesis /1</a><br/>Apr 14, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
