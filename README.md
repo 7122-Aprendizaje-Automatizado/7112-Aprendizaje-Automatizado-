@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DMVTy8TJ2G4"><img width="140px" src="https://i.ytimg.com/vi/DMVTy8TJ2G4/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=viTuyBtvQ_E"><img width="140px" src="https://i.ytimg.com/vi/viTuyBtvQ_E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=viTuyBtvQ_E">3. Genética e introducción a la probabilidad</a><br/>Feb 8, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=DMVTy8TJ2G4"><img width="140px" src="https://i.ytimg.com/vi/DMVTy8TJ2G4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DMVTy8TJ2G4">2. Máquina de Turing y autómatas</a><br/>Feb 7, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZRGvKNRATnk"><img width="140px" src="https://i.ytimg.com/vi/ZRGvKNRATnk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZRGvKNRATnk">2. Paradigma probabilístico</a><br/>Feb 7, 2024</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=QixcgZUy0zw">L1-Origen de la vida y niveles de organización</a><br/>Feb 5, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4zCSPQAhKpk"><img width="140px" src="https://i.ytimg.com/vi/4zCSPQAhKpk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4zCSPQAhKpk">1 - Motivación en la detección de patrones</a><br/>Feb 5, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Zph_ghd79AY"><img width="140px" src="https://i.ytimg.com/vi/Zph_ghd79AY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Zph_ghd79AY">0 - Presentación del curso</a><br/>Feb 5, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
