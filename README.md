@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mtSAf0CI0ug"><img width="140px" src="https://i.ytimg.com/vi/mtSAf0CI0ug/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0-KcRLndHAA"><img width="140px" src="https://i.ytimg.com/vi/0-KcRLndHAA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0-KcRLndHAA">01 Lab RePyApAuto. Presentación, Instalación de python, Variables y tipos de datos.</a><br/>Feb 8, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mtSAf0CI0ug"><img width="140px" src="https://i.ytimg.com/vi/mtSAf0CI0ug/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mtSAf0CI0ug">3. Paradigma probabilístico /2</a><br/>Feb 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=viTuyBtvQ_E"><img width="140px" src="https://i.ytimg.com/vi/viTuyBtvQ_E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=viTuyBtvQ_E">3. Genética e introducción a la probabilidad</a><br/>Feb 8, 2024</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=DMVTy8TJ2G4">2. Máquina de Turing y autómatas</a><br/>Feb 7, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZRGvKNRATnk"><img width="140px" src="https://i.ytimg.com/vi/ZRGvKNRATnk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZRGvKNRATnk">2. Paradigma probabilístico</a><br/>Feb 7, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=QixcgZUy0zw"><img width="140px" src="https://i.ytimg.com/vi/QixcgZUy0zw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QixcgZUy0zw">L1-Origen de la vida y niveles de organización</a><br/>Feb 5, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
