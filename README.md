@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0-KcRLndHAA"><img width="140px" src="https://i.ytimg.com/vi/0-KcRLndHAA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=e_RxjREVrqc"><img width="140px" src="https://i.ytimg.com/vi/e_RxjREVrqc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=e_RxjREVrqc">L2: Ácidos nucleícos y el dogma central</a><br/>Feb 9, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=0-KcRLndHAA"><img width="140px" src="https://i.ytimg.com/vi/0-KcRLndHAA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0-KcRLndHAA">01 Lab RePyApAuto. Presentación, Instalación de python, Variables y tipos de datos.</a><br/>Feb 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mtSAf0CI0ug"><img width="140px" src="https://i.ytimg.com/vi/mtSAf0CI0ug/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mtSAf0CI0ug">3. Paradigma probabilístico /2</a><br/>Feb 8, 2024</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=viTuyBtvQ_E">3. Genética e introducción a la probabilidad</a><br/>Feb 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DMVTy8TJ2G4"><img width="140px" src="https://i.ytimg.com/vi/DMVTy8TJ2G4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DMVTy8TJ2G4">2. Máquina de Turing y autómatas</a><br/>Feb 7, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ZRGvKNRATnk"><img width="140px" src="https://i.ytimg.com/vi/ZRGvKNRATnk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZRGvKNRATnk">2. Paradigma probabilístico</a><br/>Feb 7, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
