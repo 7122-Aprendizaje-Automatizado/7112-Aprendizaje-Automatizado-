@@ -16,14 +16,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mSEiW4Mnl3s"><img width="140px" src="https://i.ytimg.com/vi/mSEiW4Mnl3s/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7dQRaYEzF7U"><img width="140px" src="https://i.ytimg.com/vi/7dQRaYEzF7U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7dQRaYEzF7U">6. Probabildiad /2</a><br/>Feb 14, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=UrKdQxRYJ5Q"><img width="140px" src="https://i.ytimg.com/vi/UrKdQxRYJ5Q/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UrKdQxRYJ5Q">5. Revisión de complejidad computacional</a><br/>Feb 14, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mSEiW4Mnl3s"><img width="140px" src="https://i.ytimg.com/vi/mSEiW4Mnl3s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mSEiW4Mnl3s">4. Autómatas y lenguajes /3</a><br/>Feb 12, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=e_RxjREVrqc"><img width="140px" src="https://i.ytimg.com/vi/e_RxjREVrqc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e_RxjREVrqc">L2: Ácidos nucleícos y el dogma central</a><br/>Feb 9, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0-KcRLndHAA"><img width="140px" src="https://i.ytimg.com/vi/0-KcRLndHAA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0-KcRLndHAA">01 Lab RePyApAuto. Presentación, Instalación de python, Variables y tipos de datos.</a><br/>Feb 8, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=mtSAf0CI0ug"><img width="140px" src="https://i.ytimg.com/vi/mtSAf0CI0ug/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mtSAf0CI0ug">3. Paradigma probabilístico /2</a><br/>Feb 8, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=viTuyBtvQ_E"><img width="140px" src="https://i.ytimg.com/vi/viTuyBtvQ_E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=viTuyBtvQ_E">3. Genética e introducción a la probabilidad</a><br/>Feb 8, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
