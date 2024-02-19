@@ -16,14 +16,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ozjff0DDZDQ"><img width="140px" src="https://i.ytimg.com/vi/ozjff0DDZDQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=W0P0YrUrHzU"><img width="140px" src="https://i.ytimg.com/vi/W0P0YrUrHzU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=W0P0YrUrHzU">6. Teorema de Bayes - sensibilidad y especificidad /3</a><br/>Feb 19, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=WASBxI32f10"><img width="140px" src="https://i.ytimg.com/vi/WASBxI32f10/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WASBxI32f10">4. Probabilidad - ejemplos  /3</a><br/>Feb 19, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ozjff0DDZDQ"><img width="140px" src="https://i.ytimg.com/vi/ozjff0DDZDQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ozjff0DDZDQ">L3: Proteínas</a><br/>Feb 16, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=JnryndsBNOo"><img width="140px" src="https://i.ytimg.com/vi/JnryndsBNOo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JnryndsBNOo">02 Lab RePyApAuto. Elementos básicos de python.</a><br/>Feb 15, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7dQRaYEzF7U"><img width="140px" src="https://i.ytimg.com/vi/7dQRaYEzF7U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7dQRaYEzF7U">6. Probabildiad /2</a><br/>Feb 14, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=UrKdQxRYJ5Q"><img width="140px" src="https://i.ytimg.com/vi/UrKdQxRYJ5Q/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UrKdQxRYJ5Q">5. Revisión de complejidad computacional</a><br/>Feb 14, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=mSEiW4Mnl3s"><img width="140px" src="https://i.ytimg.com/vi/mSEiW4Mnl3s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mSEiW4Mnl3s">4. Autómatas y lenguajes /3</a><br/>Feb 12, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
