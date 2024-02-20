@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zAoEkH77Z2k"><img width="140px" src="https://i.ytimg.com/vi/zAoEkH77Z2k/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=68r9j88IgGQ"><img width="140px" src="https://i.ytimg.com/vi/68r9j88IgGQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=68r9j88IgGQ">5. Revisión de Álgebra Lineal</a><br/>Feb 20, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zAoEkH77Z2k"><img width="140px" src="https://i.ytimg.com/vi/zAoEkH77Z2k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zAoEkH77Z2k">7. Complejidad computacional: backtracking</a><br/>Feb 19, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=W0P0YrUrHzU"><img width="140px" src="https://i.ytimg.com/vi/W0P0YrUrHzU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=W0P0YrUrHzU">6. Teorema de Bayes - sensibilidad y especificidad /3</a><br/>Feb 19, 2024</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=WASBxI32f10">4. Probabilidad - ejemplos  /3</a><br/>Feb 19, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ozjff0DDZDQ"><img width="140px" src="https://i.ytimg.com/vi/ozjff0DDZDQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ozjff0DDZDQ">L3: Proteínas</a><br/>Feb 16, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=JnryndsBNOo"><img width="140px" src="https://i.ytimg.com/vi/JnryndsBNOo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JnryndsBNOo">02 Lab RePyApAuto. Elementos básicos de python.</a><br/>Feb 15, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
