@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_oUrq3J7h2Y"><img width="140px" src="https://i.ytimg.com/vi/_oUrq3J7h2Y/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TvNSp7c72IY"><img width="140px" src="https://i.ytimg.com/vi/TvNSp7c72IY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=TvNSp7c72IY">03 Lab RePyApAuto. Polinomio de Taylor / Maclaurin y Newton-Raphson para raízes.</a><br/>Feb 22, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=_oUrq3J7h2Y"><img width="140px" src="https://i.ytimg.com/vi/_oUrq3J7h2Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_oUrq3J7h2Y">8. Expresiones regulares /2</a><br/>Feb 21, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=XFLKcgv97fo"><img width="140px" src="https://i.ytimg.com/vi/XFLKcgv97fo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XFLKcgv97fo">8. Expresiones regulares /1</a><br/>Feb 21, 2024</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=68r9j88IgGQ">5. Revisión de Álgebra Lineal</a><br/>Feb 20, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zAoEkH77Z2k"><img width="140px" src="https://i.ytimg.com/vi/zAoEkH77Z2k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zAoEkH77Z2k">7. Complejidad computacional: backtracking</a><br/>Feb 19, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=W0P0YrUrHzU"><img width="140px" src="https://i.ytimg.com/vi/W0P0YrUrHzU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=W0P0YrUrHzU">6. Teorema de Bayes - sensibilidad y especificidad /3</a><br/>Feb 19, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
