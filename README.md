@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=iKMlk5hZojA"><img width="140px" src="https://i.ytimg.com/vi/iKMlk5hZojA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ANhY9PVlpP0"><img width="140px" src="https://i.ytimg.com/vi/ANhY9PVlpP0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ANhY9PVlpP0">6. Eigenvalores y Bisección</a><br/>Mar 6, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=iKMlk5hZojA"><img width="140px" src="https://i.ytimg.com/vi/iKMlk5hZojA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iKMlk5hZojA">8. Teorema de Bayes. Relación con métricas</a><br/>Mar 4, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=IAnY6wD9YZc"><img width="140px" src="https://i.ytimg.com/vi/IAnY6wD9YZc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IAnY6wD9YZc">7. Variables aleatorias Binomial y Poisson</a><br/>Mar 4, 2024</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=pa83bGvbOak">9. Recombinación genética</a><br/>Mar 4, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Wl-PPPCFuqI"><img width="140px" src="https://i.ytimg.com/vi/Wl-PPPCFuqI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Wl-PPPCFuqI">10. Variable aleatoria binomial y Poisson</a><br/>Mar 4, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=8nUn4wux4m4"><img width="140px" src="https://i.ytimg.com/vi/8nUn4wux4m4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8nUn4wux4m4">11. Búsqueda de patrones : KMP</a><br/>Mar 4, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
