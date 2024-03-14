@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zeFcHDCxCvQ"><img width="140px" src="https://i.ytimg.com/vi/zeFcHDCxCvQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ELAicvjnRQ0"><img width="140px" src="https://i.ytimg.com/vi/ELAicvjnRQ0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ELAicvjnRQ0">14. LCS y DP</a><br/>Mar 13, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zeFcHDCxCvQ"><img width="140px" src="https://i.ytimg.com/vi/zeFcHDCxCvQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zeFcHDCxCvQ">10. k-NN clasif y regresion. R2</a><br/>Mar 13, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2W4MkIzIrJY"><img width="140px" src="https://i.ytimg.com/vi/2W4MkIzIrJY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2W4MkIzIrJY">12. Genómica: ORF espurios y no espurios</a><br/>Mar 13, 2024</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=MCciL7zT_rg">9. Regresion y clasificación /1</a><br/>Mar 9, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nuCYHUvCa8o"><img width="140px" src="https://i.ytimg.com/vi/nuCYHUvCa8o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nuCYHUvCa8o">L5. Introducción a la expresión génica</a><br/>Mar 9, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=mbngNTuBkXE"><img width="140px" src="https://i.ytimg.com/vi/mbngNTuBkXE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mbngNTuBkXE">05 Lab RePyApAuto. Interpolacion Polinomica de Lagrange y B-Spline.</a><br/>Mar 7, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
