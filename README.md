@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=E9LTr2OT7sg"><img width="140px" src="https://i.ytimg.com/vi/E9LTr2OT7sg/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ya0cXjpV5Ys"><img width="140px" src="https://i.ytimg.com/vi/Ya0cXjpV5Ys/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Ya0cXjpV5Ys">L6. Introducción a filogenia y guia para proyecto semestral</a><br/>Mar 21, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=E9LTr2OT7sg"><img width="140px" src="https://i.ytimg.com/vi/E9LTr2OT7sg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=E9LTr2OT7sg">Plática: El trabajo de las mujeres en la reproducción de la vida - Yolótli N.</a><br/>Mar 21, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=IwV0YKmdD7A"><img width="140px" src="https://i.ytimg.com/vi/IwV0YKmdD7A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IwV0YKmdD7A">11. Distribución gausiana y Z</a><br/>Mar 19, 2024</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=N5PQcFk6-lA">06 Lab RePyApAuto. K - NN. Platicamos sobre Sklearn.</a><br/>Mar 14, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ELAicvjnRQ0"><img width="140px" src="https://i.ytimg.com/vi/ELAicvjnRQ0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ELAicvjnRQ0">14. LCS y DP</a><br/>Mar 13, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=zeFcHDCxCvQ"><img width="140px" src="https://i.ytimg.com/vi/zeFcHDCxCvQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zeFcHDCxCvQ">10. k-NN clasif y regresion. R2</a><br/>Mar 13, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
