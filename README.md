@@ -16,14 +16,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=h20kFcm7GU4"><img width="140px" src="https://i.ytimg.com/vi/h20kFcm7GU4/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mkYfitI54FA"><img width="140px" src="https://i.ytimg.com/vi/mkYfitI54FA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mkYfitI54FA">12. Estructura de proyecto</a><br/>Apr 3, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=D0pa980-1wE"><img width="140px" src="https://i.ytimg.com/vi/D0pa980-1wE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=D0pa980-1wE">15. Huella genética: frecuencias en DNA reales y aleatorias</a><br/>Apr 3, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qbMryEa5gAU"><img width="140px" src="https://i.ytimg.com/vi/qbMryEa5gAU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=qbMryEa5gAU">13. Preproyectos</a><br/>Apr 3, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=h20kFcm7GU4"><img width="140px" src="https://i.ytimg.com/vi/h20kFcm7GU4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=h20kFcm7GU4">07 Lab RePyApAuto. K - NN con Mnist e Introducción a LDA .</a><br/>Apr 2, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Ya0cXjpV5Ys"><img width="140px" src="https://i.ytimg.com/vi/Ya0cXjpV5Ys/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ya0cXjpV5Ys">L6. Introducción a filogenia y guia para proyecto semestral</a><br/>Mar 21, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=E9LTr2OT7sg"><img width="140px" src="https://i.ytimg.com/vi/E9LTr2OT7sg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=E9LTr2OT7sg">Plática: El trabajo de las mujeres en la reproducción de la vida - Yolótli N.</a><br/>Mar 21, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=IwV0YKmdD7A"><img width="140px" src="https://i.ytimg.com/vi/IwV0YKmdD7A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=IwV0YKmdD7A">11. Distribución gausiana y Z</a><br/>Mar 19, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=N5PQcFk6-lA"><img width="140px" src="https://i.ytimg.com/vi/N5PQcFk6-lA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=N5PQcFk6-lA">06 Lab RePyApAuto. K - NN. Platicamos sobre Sklearn.</a><br/>Mar 14, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
