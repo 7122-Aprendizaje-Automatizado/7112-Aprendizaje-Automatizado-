@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mkYfitI54FA"><img width="140px" src="https://i.ytimg.com/vi/mkYfitI54FA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=g2Fsv1uBGz0"><img width="140px" src="https://i.ytimg.com/vi/g2Fsv1uBGz0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=g2Fsv1uBGz0">16. Needleman-Wunsch</a><br/>Apr 4, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mkYfitI54FA"><img width="140px" src="https://i.ytimg.com/vi/mkYfitI54FA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mkYfitI54FA">12. Estructura de proyecto</a><br/>Apr 3, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=D0pa980-1wE"><img width="140px" src="https://i.ytimg.com/vi/D0pa980-1wE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=D0pa980-1wE">15. Huella genética: frecuencias en DNA reales y aleatorias</a><br/>Apr 3, 2024</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=qbMryEa5gAU">13. Preproyectos</a><br/>Apr 3, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=h20kFcm7GU4"><img width="140px" src="https://i.ytimg.com/vi/h20kFcm7GU4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=h20kFcm7GU4">07 Lab RePyApAuto. K - NN con Mnist e Introducción a LDA .</a><br/>Apr 2, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Ya0cXjpV5Ys"><img width="140px" src="https://i.ytimg.com/vi/Ya0cXjpV5Ys/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ya0cXjpV5Ys">L6. Introducción a filogenia y guia para proyecto semestral</a><br/>Mar 21, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
