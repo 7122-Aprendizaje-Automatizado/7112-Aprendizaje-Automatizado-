@@ -16,14 +16,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=niMFxPhGlps"><img width="140px" src="https://i.ytimg.com/vi/niMFxPhGlps/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=R3_wMMN9kp0"><img width="140px" src="https://i.ytimg.com/vi/R3_wMMN9kp0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=R3_wMMN9kp0">18. Alineamientos locales: Smith-Waterman</a><br/>Apr 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=DIud4-ACdos"><img width="140px" src="https://i.ytimg.com/vi/DIud4-ACdos/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=DIud4-ACdos">14. Reducción de dimensión: PCA/1</a><br/>Apr 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=RktcUSVhJiw"><img width="140px" src="https://i.ytimg.com/vi/RktcUSVhJiw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=RktcUSVhJiw">17. Alineamientos: NW / ejemplos</a><br/>Apr 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=niMFxPhGlps"><img width="140px" src="https://i.ytimg.com/vi/niMFxPhGlps/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=niMFxPhGlps">L8 Métodos de biologóa molecular I</a><br/>Apr 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hJK4o95Wazw"><img width="140px" src="https://i.ytimg.com/vi/hJK4o95Wazw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hJK4o95Wazw">13. Reducción de dimensión: SVD</a><br/>Apr 5, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=zV-nxRjyGcY"><img width="140px" src="https://i.ytimg.com/vi/zV-nxRjyGcY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zV-nxRjyGcY">08 Lab RePyApAuto. Discriminante Lineal de Fisher.</a><br/>Apr 4, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=g2Fsv1uBGz0"><img width="140px" src="https://i.ytimg.com/vi/g2Fsv1uBGz0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=g2Fsv1uBGz0">16. Needleman-Wunsch</a><br/>Apr 4, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=mkYfitI54FA"><img width="140px" src="https://i.ytimg.com/vi/mkYfitI54FA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mkYfitI54FA">12. Estructura de proyecto</a><br/>Apr 3, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
