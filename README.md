@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=y79VCtiRS60"><img width="140px" src="https://i.ytimg.com/vi/y79VCtiRS60/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=51eLAM469tg"><img width="140px" src="https://i.ytimg.com/vi/51eLAM469tg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=51eLAM469tg">20. CGR</a><br/>Apr 16, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=y79VCtiRS60"><img width="140px" src="https://i.ytimg.com/vi/y79VCtiRS60/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=y79VCtiRS60">19. Distancias e introducción a filogenias y hclust</a><br/>Apr 12, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kwJjKQlWZAk"><img width="140px" src="https://i.ytimg.com/vi/kwJjKQlWZAk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kwJjKQlWZAk">15. Regresiones de Ridge, Lasso y ElasticNet</a><br/>Apr 12, 2024</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=27Jk2IdcAyw">09 Lab RePyApAuto. Platicamos un poco sobre PCA, Encoding,  Metricas, Perseptron Simple.</a><br/>Apr 11, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=R3_wMMN9kp0"><img width="140px" src="https://i.ytimg.com/vi/R3_wMMN9kp0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=R3_wMMN9kp0">18. Alineamientos locales: Smith-Waterman</a><br/>Apr 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=DIud4-ACdos"><img width="140px" src="https://i.ytimg.com/vi/DIud4-ACdos/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DIud4-ACdos">14. Reducción de dimensión: PCA/1</a><br/>Apr 11, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
