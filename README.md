@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VtNyJ6TNvw0"><img width="140px" src="https://i.ytimg.com/vi/VtNyJ6TNvw0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VQlg9-eoTDM"><img width="140px" src="https://i.ytimg.com/vi/VQlg9-eoTDM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VQlg9-eoTDM">L9 Secuenciación</a><br/>Apr 20, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=VtNyJ6TNvw0"><img width="140px" src="https://i.ytimg.com/vi/VtNyJ6TNvw0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VtNyJ6TNvw0">10 Lab RePyApAuto. Perseptron Simple y Grafica de pesos de la red.</a><br/>Apr 19, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=l10SJvCMpMA"><img width="140px" src="https://i.ytimg.com/vi/l10SJvCMpMA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=l10SJvCMpMA">22. Función de información mutua</a><br/>Apr 17, 2024</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=W81TiB6CzKo">21. Entropía de Shannon</a><br/>Apr 17, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=G-CeIHEdACw"><img width="140px" src="https://i.ytimg.com/vi/G-CeIHEdACw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=G-CeIHEdACw">16. Compromiso Sesgo - Varianza</a><br/>Apr 16, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=51eLAM469tg"><img width="140px" src="https://i.ytimg.com/vi/51eLAM469tg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=51eLAM469tg">20. CGR</a><br/>Apr 16, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
