@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hE-U5tlF7wc"><img width="140px" src="https://i.ytimg.com/vi/hE-U5tlF7wc/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=dmCFPqa05-I"><img width="140px" src="https://i.ytimg.com/vi/dmCFPqa05-I/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dmCFPqa05-I">18. Regresión logística</a><br/>Apr 23, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hE-U5tlF7wc"><img width="140px" src="https://i.ytimg.com/vi/hE-U5tlF7wc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hE-U5tlF7wc">23. PCA</a><br/>Apr 22, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=k6JRnEmOe2o"><img width="140px" src="https://i.ytimg.com/vi/k6JRnEmOe2o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=k6JRnEmOe2o">Kullback - Leibler</a><br/>Apr 22, 2024</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=WR5_xiZozYQ">17. Función de Información Mutua</a><br/>Apr 22, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VQlg9-eoTDM"><img width="140px" src="https://i.ytimg.com/vi/VQlg9-eoTDM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VQlg9-eoTDM">L9 Secuenciación</a><br/>Apr 20, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=VtNyJ6TNvw0"><img width="140px" src="https://i.ytimg.com/vi/VtNyJ6TNvw0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=VtNyJ6TNvw0">10 Lab RePyApAuto. Perseptron Simple y Grafica de pesos de la red.</a><br/>Apr 19, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
