@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=V4EI8f5KoLY"><img width="140px" src="https://i.ytimg.com/vi/V4EI8f5KoLY/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YIKUkjaZ4aQ"><img width="140px" src="https://i.ytimg.com/vi/YIKUkjaZ4aQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YIKUkjaZ4aQ">25. Análisis de expresión PCA/3</a><br/>Apr 25, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=V4EI8f5KoLY"><img width="140px" src="https://i.ytimg.com/vi/V4EI8f5KoLY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=V4EI8f5KoLY">24. PCA/2</a><br/>Apr 24, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dmCFPqa05-I"><img width="140px" src="https://i.ytimg.com/vi/dmCFPqa05-I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dmCFPqa05-I">18. Regresión logística</a><br/>Apr 23, 2024</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=hE-U5tlF7wc">23. PCA</a><br/>Apr 22, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=k6JRnEmOe2o"><img width="140px" src="https://i.ytimg.com/vi/k6JRnEmOe2o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=k6JRnEmOe2o">Kullback - Leibler</a><br/>Apr 22, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=WR5_xiZozYQ"><img width="140px" src="https://i.ytimg.com/vi/WR5_xiZozYQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WR5_xiZozYQ">17. Función de Información Mutua</a><br/>Apr 22, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
