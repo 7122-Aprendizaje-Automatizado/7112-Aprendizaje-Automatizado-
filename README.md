@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=il7nLTg1aM0"><img width="140px" src="https://i.ytimg.com/vi/il7nLTg1aM0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_VBeHNleqv4"><img width="140px" src="https://i.ytimg.com/vi/_VBeHNleqv4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_VBeHNleqv4">19. Regresión logísitca y Descenso del gradiente</a><br/>Apr 26, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=il7nLTg1aM0"><img width="140px" src="https://i.ytimg.com/vi/il7nLTg1aM0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=il7nLTg1aM0">L10. Estudios con DNA</a><br/>Apr 26, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=uu6BOf3A3KU"><img width="140px" src="https://i.ytimg.com/vi/uu6BOf3A3KU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uu6BOf3A3KU">11 Lab RePyApAuto. Usamos una MLPRegressor para generar imagenes de mnist.</a><br/>Apr 25, 2024</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=YIKUkjaZ4aQ">25. Análisis de expresión PCA/3</a><br/>Apr 25, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=V4EI8f5KoLY"><img width="140px" src="https://i.ytimg.com/vi/V4EI8f5KoLY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=V4EI8f5KoLY">24. PCA/2</a><br/>Apr 24, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=dmCFPqa05-I"><img width="140px" src="https://i.ytimg.com/vi/dmCFPqa05-I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dmCFPqa05-I">18. Regresión logística</a><br/>Apr 23, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
