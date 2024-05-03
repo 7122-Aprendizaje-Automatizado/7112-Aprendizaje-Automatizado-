@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0hyLyT0DboY"><img width="140px" src="https://i.ytimg.com/vi/0hyLyT0DboY/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AZVwfrJ08vU"><img width="140px" src="https://i.ytimg.com/vi/AZVwfrJ08vU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=AZVwfrJ08vU">20. Perceptrón y problema del XOR</a><br/>May 3, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=0hyLyT0DboY"><img width="140px" src="https://i.ytimg.com/vi/0hyLyT0DboY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0hyLyT0DboY">20. Perceptrón</a><br/>May 1, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=OhFj1z2Isaw"><img width="140px" src="https://i.ytimg.com/vi/OhFj1z2Isaw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OhFj1z2Isaw">26. Agrupamientos</a><br/>Apr 29, 2024</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=_VBeHNleqv4">19. Regresión logísitca y Descenso del gradiente</a><br/>Apr 26, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=il7nLTg1aM0"><img width="140px" src="https://i.ytimg.com/vi/il7nLTg1aM0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=il7nLTg1aM0">L10. Estudios con DNA</a><br/>Apr 26, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=uu6BOf3A3KU"><img width="140px" src="https://i.ytimg.com/vi/uu6BOf3A3KU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uu6BOf3A3KU">11 Lab RePyApAuto. Usamos una MLPRegressor para generar imagenes de mnist.</a><br/>Apr 25, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
