@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=82HbJvHCFLQ"><img width="140px" src="https://i.ytimg.com/vi/82HbJvHCFLQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mCud07MY1uI"><img width="140px" src="https://i.ytimg.com/vi/mCud07MY1uI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mCud07MY1uI">L11-Bases de datos y formatos</a><br/>May 17, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=82HbJvHCFLQ"><img width="140px" src="https://i.ytimg.com/vi/82HbJvHCFLQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=82HbJvHCFLQ">12 Lab RePyApAuto. Tarea 2, Diagrama de Voronoid y K-means</a><br/>May 6, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=AZVwfrJ08vU"><img width="140px" src="https://i.ytimg.com/vi/AZVwfrJ08vU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AZVwfrJ08vU">20. Perceptrón y problema del XOR</a><br/>May 3, 2024</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=0hyLyT0DboY">20. Perceptrón</a><br/>May 1, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=OhFj1z2Isaw"><img width="140px" src="https://i.ytimg.com/vi/OhFj1z2Isaw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OhFj1z2Isaw">26. Agrupamientos</a><br/>Apr 29, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_VBeHNleqv4"><img width="140px" src="https://i.ytimg.com/vi/_VBeHNleqv4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_VBeHNleqv4">19. Regresión logísitca y Descenso del gradiente</a><br/>Apr 26, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
