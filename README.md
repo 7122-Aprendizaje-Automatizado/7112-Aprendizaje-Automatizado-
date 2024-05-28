@@ -16,14 +16,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rFcfqFaadOE"><img width="140px" src="https://i.ytimg.com/vi/rFcfqFaadOE/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XpPOmAcPQe4"><img width="140px" src="https://i.ytimg.com/vi/XpPOmAcPQe4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=XpPOmAcPQe4">28. Artículos teoría de la información</a><br/>May 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=UD0MzzxVw2U"><img width="140px" src="https://i.ytimg.com/vi/UD0MzzxVw2U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UD0MzzxVw2U">27. Uso de pca con dataset de cáncer</a><br/>May 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=UhguYlClteg"><img width="140px" src="https://i.ytimg.com/vi/UhguYlClteg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UhguYlClteg">22. Sesión informativa de exposición</a><br/>May 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=wP8Atbiw9SM"><img width="140px" src="https://i.ytimg.com/vi/wP8Atbiw9SM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wP8Atbiw9SM">21. Perceptrón multicapa</a><br/>May 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=rFcfqFaadOE"><img width="140px" src="https://i.ytimg.com/vi/rFcfqFaadOE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rFcfqFaadOE">13 Lab RePyApAuto. Tarea 2 Dudas, Diagrama de Voronoid y K-means parte 2.</a><br/>May 23, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Ylh6XaIntA0"><img width="140px" src="https://i.ytimg.com/vi/Ylh6XaIntA0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ylh6XaIntA0">L12- Control de calidad &lpar;secuecias DNA&rpar;</a><br/>May 17, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=mCud07MY1uI"><img width="140px" src="https://i.ytimg.com/vi/mCud07MY1uI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mCud07MY1uI">L11-Bases de datos y formatos</a><br/>May 17, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=82HbJvHCFLQ"><img width="140px" src="https://i.ytimg.com/vi/82HbJvHCFLQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=82HbJvHCFLQ">12 Lab RePyApAuto. Tarea 2, Diagrama de Voronoid y K-means</a><br/>May 6, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=AZVwfrJ08vU"><img width="140px" src="https://i.ytimg.com/vi/AZVwfrJ08vU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AZVwfrJ08vU">20. Perceptrón y problema del XOR</a><br/>May 3, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
