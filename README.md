@@ -16,14 +16,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XpPOmAcPQe4"><img width="140px" src="https://i.ytimg.com/vi/XpPOmAcPQe4/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NLbiwIjOQVY"><img width="140px" src="https://i.ytimg.com/vi/NLbiwIjOQVY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NLbiwIjOQVY">29. Graficas y redes</a><br/>May 31, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=i82SrIa7jTg"><img width="140px" src="https://i.ytimg.com/vi/i82SrIa7jTg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=i82SrIa7jTg">24. ConvNet</a><br/>May 31, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Eq1eHHFRT-8"><img width="140px" src="https://i.ytimg.com/vi/Eq1eHHFRT-8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Eq1eHHFRT-8">23. Perceptron multicapa /2</a><br/>May 31, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=9APVph_XdwQ"><img width="140px" src="https://i.ytimg.com/vi/9APVph_XdwQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9APVph_XdwQ">23. Perceptron multicapa /1</a><br/>May 31, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=XpPOmAcPQe4"><img width="140px" src="https://i.ytimg.com/vi/XpPOmAcPQe4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XpPOmAcPQe4">28. Artículos teoría de la información</a><br/>May 28, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=UD0MzzxVw2U"><img width="140px" src="https://i.ytimg.com/vi/UD0MzzxVw2U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UD0MzzxVw2U">27. Uso de pca con dataset de cáncer</a><br/>May 28, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=UhguYlClteg"><img width="140px" src="https://i.ytimg.com/vi/UhguYlClteg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UhguYlClteg">22. Sesión informativa de exposición</a><br/>May 28, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=wP8Atbiw9SM"><img width="140px" src="https://i.ytimg.com/vi/wP8Atbiw9SM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wP8Atbiw9SM">21. Perceptrón multicapa</a><br/>May 28, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=rFcfqFaadOE"><img width="140px" src="https://i.ytimg.com/vi/rFcfqFaadOE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=rFcfqFaadOE">13 Lab RePyApAuto. Tarea 2 Dudas, Diagrama de Voronoid y K-means parte 2.</a><br/>May 23, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
