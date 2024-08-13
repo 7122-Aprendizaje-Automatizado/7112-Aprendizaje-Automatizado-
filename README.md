@@ -16,14 +16,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EHGFgXaVKVk"><img width="140px" src="https://i.ytimg.com/vi/EHGFgXaVKVk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EHGFgXaVKVk">Facultad de Ciencias - UNAM, Semestre 2022-2</a><br/>Jun 20, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=NLbiwIjOQVY"><img width="140px" src="https://i.ytimg.com/vi/NLbiwIjOQVY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=NLbiwIjOQVY">29. Graficas y redes</a><br/>May 31, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=i82SrIa7jTg"><img width="140px" src="https://i.ytimg.com/vi/i82SrIa7jTg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=i82SrIa7jTg">24. ConvNet</a><br/>May 31, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Eq1eHHFRT-8"><img width="140px" src="https://i.ytimg.com/vi/Eq1eHHFRT-8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Eq1eHHFRT-8">23. Perceptron multicapa /2</a><br/>May 31, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9APVph_XdwQ"><img width="140px" src="https://i.ytimg.com/vi/9APVph_XdwQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9APVph_XdwQ">23. Perceptron multicapa /1</a><br/>May 31, 2024</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mxcI4pi9O8o"><img width="140px" src="https://i.ytimg.com/vi/mxcI4pi9O8o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mxcI4pi9O8o">Independencia probabilística</a><br/>Aug 13, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=P601xR4kpGM"><img width="140px" src="https://i.ytimg.com/vi/P601xR4kpGM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=P601xR4kpGM">Introducción a la probabilidad</a><br/>Aug 13, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NDhze3RViCc"><img width="140px" src="https://i.ytimg.com/vi/NDhze3RViCc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NDhze3RViCc">Sesión 28 - Prueba de hipótesis /1</a><br/>Apr 14, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk"><img width="140px" src="https://i.ytimg.com/vi/BGOFmXiAQmk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk">Sesión 26 - Regresión logística &lpar;ejemplo&rpar;</a><br/>Apr 13, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BFvX7Urm6b0"><img width="140px" src="https://i.ytimg.com/vi/BFvX7Urm6b0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BFvX7Urm6b0">Sesión 24 - Representación por juego del caos</a><br/>Mar 27, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
