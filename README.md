@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=32L87u2mDqQ"><img width="140px" src="https://i.ytimg.com/vi/32L87u2mDqQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sbm3lzpvra8"><img width="140px" src="https://i.ytimg.com/vi/sbm3lzpvra8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sbm3lzpvra8">Introducción a la computación</a><br/>Aug 20, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=32L87u2mDqQ"><img width="140px" src="https://i.ytimg.com/vi/32L87u2mDqQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=32L87u2mDqQ">Teorema de Bayes, Sensibilidad y Especificidad</a><br/>Aug 20, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mxcI4pi9O8o"><img width="140px" src="https://i.ytimg.com/vi/mxcI4pi9O8o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mxcI4pi9O8o">Independencia probabilística</a><br/>Aug 13, 2024</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=P601xR4kpGM">Introducción a la probabilidad</a><br/>Aug 13, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NDhze3RViCc"><img width="140px" src="https://i.ytimg.com/vi/NDhze3RViCc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NDhze3RViCc">Sesión 28 - Prueba de hipótesis /1</a><br/>Apr 14, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk"><img width="140px" src="https://i.ytimg.com/vi/BGOFmXiAQmk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk">Sesión 26 - Regresión logística &lpar;ejemplo&rpar;</a><br/>Apr 13, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
