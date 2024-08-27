@@ -16,14 +16,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XCYqrsVQN_g"><img width="140px" src="https://i.ytimg.com/vi/XCYqrsVQN_g/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZKV3Ud5u9FI"><img width="140px" src="https://i.ytimg.com/vi/ZKV3Ud5u9FI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZKV3Ud5u9FI">Variable aleatoria</a><br/>Aug 27, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=KpeH8NubUz4"><img width="140px" src="https://i.ytimg.com/vi/KpeH8NubUz4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KpeH8NubUz4">Expresiones regulares /2</a><br/>Aug 27, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=XCYqrsVQN_g"><img width="140px" src="https://i.ytimg.com/vi/XCYqrsVQN_g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XCYqrsVQN_g">Introducción a autómatas y lenguajes</a><br/>Aug 20, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=gWfRIHP5Ot8"><img width="140px" src="https://i.ytimg.com/vi/gWfRIHP5Ot8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gWfRIHP5Ot8">Expresiones regulares /1</a><br/>Aug 20, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sbm3lzpvra8"><img width="140px" src="https://i.ytimg.com/vi/sbm3lzpvra8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sbm3lzpvra8">Introducción a la computación</a><br/>Aug 20, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=32L87u2mDqQ"><img width="140px" src="https://i.ytimg.com/vi/32L87u2mDqQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=32L87u2mDqQ">Teorema de Bayes, Sensibilidad y Especificidad</a><br/>Aug 20, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=mxcI4pi9O8o"><img width="140px" src="https://i.ytimg.com/vi/mxcI4pi9O8o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mxcI4pi9O8o">Independencia probabilística</a><br/>Aug 13, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
