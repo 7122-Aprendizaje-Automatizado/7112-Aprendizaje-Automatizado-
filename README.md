@@ -16,14 +16,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DloM-oF00cE"><img width="140px" src="https://i.ytimg.com/vi/DloM-oF00cE/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vp6BzpmE7GY"><img width="140px" src="https://i.ytimg.com/vi/vp6BzpmE7GY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vp6BzpmE7GY">Variables discretas y continuas, infinitos</a><br/>Aug 29, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=O739Jo_3A7o"><img width="140px" src="https://i.ytimg.com/vi/O739Jo_3A7o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=O739Jo_3A7o">Complejidad computacional /1</a><br/>Aug 29, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=DloM-oF00cE"><img width="140px" src="https://i.ytimg.com/vi/DloM-oF00cE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DloM-oF00cE">Expresiones regulares /3</a><br/>Aug 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZKV3Ud5u9FI"><img width="140px" src="https://i.ytimg.com/vi/ZKV3Ud5u9FI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZKV3Ud5u9FI">Variable aleatoria</a><br/>Aug 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=KpeH8NubUz4"><img width="140px" src="https://i.ytimg.com/vi/KpeH8NubUz4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KpeH8NubUz4">Expresiones regulares /2</a><br/>Aug 27, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=XCYqrsVQN_g"><img width="140px" src="https://i.ytimg.com/vi/XCYqrsVQN_g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XCYqrsVQN_g">Introducción a autómatas y lenguajes</a><br/>Aug 20, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=gWfRIHP5Ot8"><img width="140px" src="https://i.ytimg.com/vi/gWfRIHP5Ot8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gWfRIHP5Ot8">Expresiones regulares /1</a><br/>Aug 20, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
