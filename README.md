@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CMB_EuTbEOQ"><img width="140px" src="https://i.ytimg.com/vi/CMB_EuTbEOQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OECCcpk24vc"><img width="140px" src="https://i.ytimg.com/vi/OECCcpk24vc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OECCcpk24vc">Complejidad computacional/2</a><br/>Sep 6, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=CMB_EuTbEOQ"><img width="140px" src="https://i.ytimg.com/vi/CMB_EuTbEOQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CMB_EuTbEOQ">Esperanza</a><br/>Sep 3, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vp6BzpmE7GY"><img width="140px" src="https://i.ytimg.com/vi/vp6BzpmE7GY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vp6BzpmE7GY">Variables discretas y continuas, infinitos</a><br/>Aug 29, 2024</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=O739Jo_3A7o">Complejidad computacional /1</a><br/>Aug 29, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DloM-oF00cE"><img width="140px" src="https://i.ytimg.com/vi/DloM-oF00cE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DloM-oF00cE">Expresiones regulares /3</a><br/>Aug 27, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ZKV3Ud5u9FI"><img width="140px" src="https://i.ytimg.com/vi/ZKV3Ud5u9FI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZKV3Ud5u9FI">Variable aleatoria</a><br/>Aug 27, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
