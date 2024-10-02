@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ij8d2Q-m8JM"><img width="140px" src="https://i.ytimg.com/vi/Ij8d2Q-m8JM/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PwmUFvBZ35k"><img width="140px" src="https://i.ytimg.com/vi/PwmUFvBZ35k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PwmUFvBZ35k">Sobre el proyecto final /1</a><br/>Oct 2, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Ij8d2Q-m8JM"><img width="140px" src="https://i.ytimg.com/vi/Ij8d2Q-m8JM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ij8d2Q-m8JM">Alineamientos: comparación de cadenas y PD /1</a><br/>Sep 20, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7sE7VqwGEo4"><img width="140px" src="https://i.ytimg.com/vi/7sE7VqwGEo4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7sE7VqwGEo4">Teoría de la información: función de información mutua /2</a><br/>Sep 18, 2024</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=Cp3TLUANl9Y">Teoría de la informaciòn : Entropía /1</a><br/>Sep 13, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xETomxaj-LU"><img width="140px" src="https://i.ytimg.com/vi/xETomxaj-LU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xETomxaj-LU">Dudas de la tarea 1</a><br/>Sep 12, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=pq2IU4enJDU"><img width="140px" src="https://i.ytimg.com/vi/pq2IU4enJDU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pq2IU4enJDU">Complejidad  computacional /3</a><br/>Sep 10, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
