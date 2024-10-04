@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=RH_hOe_f3kA"><img width="140px" src="https://i.ytimg.com/vi/RH_hOe_f3kA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=i7WUf_Ts12c"><img width="140px" src="https://i.ytimg.com/vi/i7WUf_Ts12c/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=i7WUf_Ts12c">Programación dinámica /1</a><br/>Oct 3, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=RH_hOe_f3kA"><img width="140px" src="https://i.ytimg.com/vi/RH_hOe_f3kA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RH_hOe_f3kA">Leyes de Mendel</a><br/>Oct 2, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=a2YxqyUiavM"><img width="140px" src="https://i.ytimg.com/vi/a2YxqyUiavM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=a2YxqyUiavM">Modelo Haldane</a><br/>Oct 2, 2024</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=PwmUFvBZ35k">Sobre el proyecto final /1</a><br/>Oct 2, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Ij8d2Q-m8JM"><img width="140px" src="https://i.ytimg.com/vi/Ij8d2Q-m8JM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ij8d2Q-m8JM">Alineamientos: comparación de cadenas y PD /1</a><br/>Sep 20, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7sE7VqwGEo4"><img width="140px" src="https://i.ytimg.com/vi/7sE7VqwGEo4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7sE7VqwGEo4">Teoría de la información: función de información mutua /2</a><br/>Sep 18, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
