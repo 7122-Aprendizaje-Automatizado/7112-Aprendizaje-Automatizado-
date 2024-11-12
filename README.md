@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Qzy0Ufom868"><img width="140px" src="https://i.ytimg.com/vi/Qzy0Ufom868/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1slZIIQfQ54"><img width="140px" src="https://i.ytimg.com/vi/1slZIIQfQ54/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1slZIIQfQ54">Aprendizaje estadístico /3 - Descenso del gardiente</a><br/>Nov 12, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Qzy0Ufom868"><img width="140px" src="https://i.ytimg.com/vi/Qzy0Ufom868/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Qzy0Ufom868">Aprendizaje estadístico /2</a><br/>Nov 7, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xZUpJ9Dx0sw"><img width="140px" src="https://i.ytimg.com/vi/xZUpJ9Dx0sw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xZUpJ9Dx0sw">Introducción al aprendizaje estadístico /1</a><br/>Nov 6, 2024</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=KCHAyAZ9H_M">Tarea 2 y Agrupamientos: kmeans y dbscan</a><br/>Nov 5, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=iUIgY5wFE_Q"><img width="140px" src="https://i.ytimg.com/vi/iUIgY5wFE_Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iUIgY5wFE_Q">Similitud de secuencias</a><br/>Nov 5, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=cbFTCd8y7pY"><img width="140px" src="https://i.ytimg.com/vi/cbFTCd8y7pY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cbFTCd8y7pY">Prueba de hipótesis</a><br/>Nov 5, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
