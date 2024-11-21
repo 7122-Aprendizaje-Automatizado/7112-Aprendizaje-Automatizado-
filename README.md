@@ -16,14 +16,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=o8EN-sWe8pk"><img width="140px" src="https://i.ytimg.com/vi/o8EN-sWe8pk/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2fmrucDRvrU"><img width="140px" src="https://i.ytimg.com/vi/2fmrucDRvrU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2fmrucDRvrU">Aprendizaje estadístico /7: convnets</a><br/>Nov 21, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BdBIDRLN1_c"><img width="140px" src="https://i.ytimg.com/vi/BdBIDRLN1_c/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BdBIDRLN1_c">Aprendizaje estadístico /6: árboles de decisión y valores shap</a><br/>Nov 21, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=o8EN-sWe8pk"><img width="140px" src="https://i.ytimg.com/vi/o8EN-sWe8pk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=o8EN-sWe8pk">Aprendizaje estadístico /5: Ejemplo de modelo &lpar;RN&rpar;</a><br/>Nov 15, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=83ljQPuTcz8"><img width="140px" src="https://i.ytimg.com/vi/83ljQPuTcz8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=83ljQPuTcz8">Aprendizaje estadístico /4: Revisión de descenso del gradiente</a><br/>Nov 15, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1slZIIQfQ54"><img width="140px" src="https://i.ytimg.com/vi/1slZIIQfQ54/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1slZIIQfQ54">Aprendizaje estadístico /3 - Descenso del gardiente</a><br/>Nov 12, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Qzy0Ufom868"><img width="140px" src="https://i.ytimg.com/vi/Qzy0Ufom868/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Qzy0Ufom868">Aprendizaje estadístico /2</a><br/>Nov 7, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=xZUpJ9Dx0sw"><img width="140px" src="https://i.ytimg.com/vi/xZUpJ9Dx0sw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xZUpJ9Dx0sw">Introducción al aprendizaje estadístico /1</a><br/>Nov 6, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
