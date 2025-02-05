@@ -16,14 +16,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NHDy2oE7LF0"><img width="140px" src="https://i.ytimg.com/vi/NHDy2oE7LF0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=NHDy2oE7LF0">Teoría de grafos y redes /1</a><br/>Nov 21, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2fmrucDRvrU"><img width="140px" src="https://i.ytimg.com/vi/2fmrucDRvrU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2fmrucDRvrU">Aprendizaje estadístico /7: convnets</a><br/>Nov 21, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BdBIDRLN1_c"><img width="140px" src="https://i.ytimg.com/vi/BdBIDRLN1_c/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BdBIDRLN1_c">Aprendizaje estadístico /6: árboles de decisión y valores shap</a><br/>Nov 21, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=o8EN-sWe8pk"><img width="140px" src="https://i.ytimg.com/vi/o8EN-sWe8pk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=o8EN-sWe8pk">Aprendizaje estadístico /5: Ejemplo de modelo &lpar;RN&rpar;</a><br/>Nov 15, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=83ljQPuTcz8"><img width="140px" src="https://i.ytimg.com/vi/83ljQPuTcz8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=83ljQPuTcz8">Aprendizaje estadístico /4: Revisión de descenso del gradiente</a><br/>Nov 15, 2024</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sISZJfTD8Pg"><img width="140px" src="https://i.ytimg.com/vi/sISZJfTD8Pg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sISZJfTD8Pg">Revisión de Teoría de autómatas</a><br/>Feb 5, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NDhze3RViCc"><img width="140px" src="https://i.ytimg.com/vi/NDhze3RViCc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NDhze3RViCc">Sesión 28 - Prueba de hipótesis /1</a><br/>Apr 14, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk"><img width="140px" src="https://i.ytimg.com/vi/BGOFmXiAQmk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk">Sesión 26 - Regresión logística &lpar;ejemplo&rpar;</a><br/>Apr 13, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BFvX7Urm6b0"><img width="140px" src="https://i.ytimg.com/vi/BFvX7Urm6b0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BFvX7Urm6b0">Sesión 24 - Representación por juego del caos</a><br/>Mar 27, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=UL1TrR55LhA"><img width="140px" src="https://i.ytimg.com/vi/UL1TrR55LhA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UL1TrR55LhA">Sesión 20 - Leyes de Mendel /1</a><br/>Mar 15, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
