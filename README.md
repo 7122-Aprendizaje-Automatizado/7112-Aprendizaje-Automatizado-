@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JaDP213Y4Cw"><img width="140px" src="https://i.ytimg.com/vi/JaDP213Y4Cw/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=P0hIgqrh_6Y"><img width="140px" src="https://i.ytimg.com/vi/P0hIgqrh_6Y/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=P0hIgqrh_6Y">Alineamientos con programación dinámica</a><br/>Mar 10, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=JaDP213Y4Cw"><img width="140px" src="https://i.ytimg.com/vi/JaDP213Y4Cw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JaDP213Y4Cw">Complejidad computacional: ejemplos</a><br/>Feb 26, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sovxwgTS0go"><img width="140px" src="https://i.ytimg.com/vi/sovxwgTS0go/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sovxwgTS0go">Complejidad computacional 1</a><br/>Feb 20, 2025</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=oYwQDNlQqT0">Expresiones regulares 3: Python y re</a><br/>Feb 20, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wbPu_SXoLK8"><img width="140px" src="https://i.ytimg.com/vi/wbPu_SXoLK8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wbPu_SXoLK8">Expresiones regulares 2</a><br/>Feb 12, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=8QZWGVrBIJU"><img width="140px" src="https://i.ytimg.com/vi/8QZWGVrBIJU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8QZWGVrBIJU">Expresiones regulares 1</a><br/>Feb 10, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
