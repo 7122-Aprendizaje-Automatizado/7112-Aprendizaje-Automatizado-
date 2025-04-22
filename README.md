@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=c2tAihyOEFo"><img width="140px" src="https://i.ytimg.com/vi/c2tAihyOEFo/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CZ5NT9YZs28"><img width="140px" src="https://i.ytimg.com/vi/CZ5NT9YZs28/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=CZ5NT9YZs28">Teoría de la información: AMI como firma genómica</a><br/>Apr 21, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=c2tAihyOEFo"><img width="140px" src="https://i.ytimg.com/vi/c2tAihyOEFo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=c2tAihyOEFo">Teoría de la información : ejercicios de información mutua</a><br/>Apr 1, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0sw56hh0RHk"><img width="140px" src="https://i.ytimg.com/vi/0sw56hh0RHk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0sw56hh0RHk">Teoría de la información: Entropía</a><br/>Apr 1, 2025</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=gtkKVbBlMro">Teoría de la información: FIM</a><br/>Apr 1, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=P0hIgqrh_6Y"><img width="140px" src="https://i.ytimg.com/vi/P0hIgqrh_6Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=P0hIgqrh_6Y">Alineamientos con programación dinámica</a><br/>Mar 10, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=JaDP213Y4Cw"><img width="140px" src="https://i.ytimg.com/vi/JaDP213Y4Cw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JaDP213Y4Cw">Complejidad computacional: ejemplos</a><br/>Feb 26, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
