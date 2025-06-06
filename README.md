@@ -16,14 +16,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KKpk46996Wk"><img width="140px" src="https://i.ytimg.com/vi/KKpk46996Wk/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=K7RB34vz7mY"><img width="140px" src="https://i.ytimg.com/vi/K7RB34vz7mY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=K7RB34vz7mY">Ejemplo de regresión logística</a><br/>Jun 5, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qNcIHazVZeo"><img width="140px" src="https://i.ytimg.com/vi/qNcIHazVZeo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=qNcIHazVZeo">Ejemplo de perceptrón multicapa</a><br/>Jun 5, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=KKpk46996Wk"><img width="140px" src="https://i.ytimg.com/vi/KKpk46996Wk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KKpk46996Wk">Revisión lineal y logística</a><br/>Jun 3, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=C0d8NO8fsRU"><img width="140px" src="https://i.ytimg.com/vi/C0d8NO8fsRU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=C0d8NO8fsRU">Sistemas dinámicos discretos</a><br/>May 22, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xeaEc4Ovaac"><img width="140px" src="https://i.ytimg.com/vi/xeaEc4Ovaac/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xeaEc4Ovaac">Matrices - Transformaciones y Eigenespacio</a><br/>May 19, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=CZ5NT9YZs28"><img width="140px" src="https://i.ytimg.com/vi/CZ5NT9YZs28/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CZ5NT9YZs28">Teoría de la información: AMI como firma genómica</a><br/>Apr 21, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=c2tAihyOEFo"><img width="140px" src="https://i.ytimg.com/vi/c2tAihyOEFo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=c2tAihyOEFo">Teoría de la información : ejercicios de información mutua</a><br/>Apr 1, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
