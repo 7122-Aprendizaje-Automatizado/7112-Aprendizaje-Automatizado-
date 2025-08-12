@@ -16,14 +16,12 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=K7RB34vz7mY"><img width="140px" src="https://i.ytimg.com/vi/K7RB34vz7mY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=K7RB34vz7mY">Ejemplo de regresión logística</a><br/>Jun 5, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=qNcIHazVZeo"><img width="140px" src="https://i.ytimg.com/vi/qNcIHazVZeo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qNcIHazVZeo">Ejemplo de perceptrón multicapa</a><br/>Jun 5, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=KKpk46996Wk"><img width="140px" src="https://i.ytimg.com/vi/KKpk46996Wk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KKpk46996Wk">Revisión lineal y logística</a><br/>Jun 3, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=C0d8NO8fsRU"><img width="140px" src="https://i.ytimg.com/vi/C0d8NO8fsRU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=C0d8NO8fsRU">Sistemas dinámicos discretos</a><br/>May 22, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=xeaEc4Ovaac"><img width="140px" src="https://i.ytimg.com/vi/xeaEc4Ovaac/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xeaEc4Ovaac">Matrices - Transformaciones y Eigenespacio</a><br/>May 19, 2025</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NDhze3RViCc"><img width="140px" src="https://i.ytimg.com/vi/NDhze3RViCc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NDhze3RViCc">Sesión 28 - Prueba de hipótesis /1</a><br/>Apr 14, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk"><img width="140px" src="https://i.ytimg.com/vi/BGOFmXiAQmk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk">Sesión 26 - Regresión logística &lpar;ejemplo&rpar;</a><br/>Apr 13, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BFvX7Urm6b0"><img width="140px" src="https://i.ytimg.com/vi/BFvX7Urm6b0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BFvX7Urm6b0">Sesión 24 - Representación por juego del caos</a><br/>Mar 27, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=UL1TrR55LhA"><img width="140px" src="https://i.ytimg.com/vi/UL1TrR55LhA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UL1TrR55LhA">Sesión 20 - Leyes de Mendel /1</a><br/>Mar 15, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
