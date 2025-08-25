@@ -17,7 +17,7 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 
 ##  📺 	YouTube Videos
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=x5N-lQDf-VE"><img width="140px" src="https://i.ytimg.com/vi/x5N-lQDf-VE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=x5N-lQDf-VE">Clase jueves 21-08-2025, Definición moderna de probabilidad, regla de la suma, proba condicional</a><br/>Aug 25, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=x5N-lQDf-VE">Definición moderna de probabilidad, regla de la suma, proba condicional</a><br/>Aug 25, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4N8lakWIp28"><img width="140px" src="https://i.ytimg.com/vi/4N8lakWIp28/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4N8lakWIp28">Intro a la proba, ¿cuál es la probabilidad de que un bebé humano tenga sexo masculino o femenino?</a><br/>Aug 20, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NDhze3RViCc"><img width="140px" src="https://i.ytimg.com/vi/NDhze3RViCc/mqdefault.jpg"></a></td>
