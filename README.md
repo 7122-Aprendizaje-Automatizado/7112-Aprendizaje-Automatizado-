@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TMljH9MxGcc"><img width="140px" src="https://i.ytimg.com/vi/TMljH9MxGcc/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hW5NJtRzGwk"><img width="140px" src="https://i.ytimg.com/vi/hW5NJtRzGwk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hW5NJtRzGwk">Virus, clase11 sep 2015</a><br/>Sep 17, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=TMljH9MxGcc"><img width="140px" src="https://i.ytimg.com/vi/TMljH9MxGcc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TMljH9MxGcc">Clase 8 Leyes de Mendel</a><br/>Sep 16, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NGqeFvFywy4"><img width="140px" src="https://i.ytimg.com/vi/NGqeFvFywy4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NGqeFvFywy4">Virus 12 sep 25</a><br/>Sep 11, 2025</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=-6XR4WWyF9I">Proteinas clase 04 sep 2025</a><br/>Sep 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6BmacAuqn0o"><img width="140px" src="https://i.ytimg.com/vi/6BmacAuqn0o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6BmacAuqn0o">Clase 6 Esperanza y propiedades de linealidad, continuidad y discretitud</a><br/>Sep 4, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=iuT2RWUWG7A"><img width="140px" src="https://i.ytimg.com/vi/iuT2RWUWG7A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=iuT2RWUWG7A">Clase 5 Rafa, Ejemplo sensibilidad especificidad covid, variable aleatoria discreta, Bernoulli</a><br/>Sep 3, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
