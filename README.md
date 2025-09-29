@@ -16,14 +16,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=oE8PXE-et64"><img width="140px" src="https://i.ytimg.com/vi/oE8PXE-et64/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=oE8PXE-et64">Clase 11 Recombinación y Proceso Poisson, 2025-09-24</a><br/>Sep 26, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=N-8Yk3nWx8k"><img width="140px" src="https://i.ytimg.com/vi/N-8Yk3nWx8k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=N-8Yk3nWx8k">Clase 10 recombinación genética parte 2 2025-09-23</a><br/>Sep 25, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Tz1g2qzLYSw"><img width="140px" src="https://i.ytimg.com/vi/Tz1g2qzLYSw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Tz1g2qzLYSw">Clase 10 Recombinación genética parte 1</a><br/>Sep 25, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-6XR4WWyF9I"><img width="140px" src="https://i.ytimg.com/vi/-6XR4WWyF9I/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-6XR4WWyF9I"><img width="140px" src="https://i.ytimg.com/vi/-6XR4WWyF9I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-6XR4WWyF9I">Proteinas clase 04 sep 2025</a><br/>Sep 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6BmacAuqn0o"><img width="140px" src="https://i.ytimg.com/vi/6BmacAuqn0o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6BmacAuqn0o">Clase 6 Esperanza y propiedades de linealidad, continuidad y discretitud</a><br/>Sep 4, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=iuT2RWUWG7A"><img width="140px" src="https://i.ytimg.com/vi/iuT2RWUWG7A/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=iuT2RWUWG7A">Clase 5 Rafa, Ejemplo sensibilidad especificidad covid, variable aleatoria discreta, Bernoulli</a><br/>Sep 3, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NDhze3RViCc"><img width="140px" src="https://i.ytimg.com/vi/NDhze3RViCc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NDhze3RViCc">Sesión 28 - Prueba de hipótesis /1</a><br/>Apr 14, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk"><img width="140px" src="https://i.ytimg.com/vi/BGOFmXiAQmk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk">Sesión 26 - Regresión logística &lpar;ejemplo&rpar;</a><br/>Apr 13, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
