@@ -21,7 +21,7 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <table><tr><td><a href="https://www.youtube.com/watch?v=6BmacAuqn0o"><img width="140px" src="https://i.ytimg.com/vi/6BmacAuqn0o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6BmacAuqn0o">Clase 6 Esperanza y propiedades de linealidad, continuidad y discretitud</a><br/>Sep 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=iuT2RWUWG7A"><img width="140px" src="https://i.ytimg.com/vi/iuT2RWUWG7A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=iuT2RWUWG7A">Clase 5 Rafa, Ejemplo sensibilidad especificidad covid, variable aleatoria discreta, Bernoulli</a><br/>Sep 3, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=iuT2RWUWG7A">Clase 5 Ejemplo sensibilidad especificidad covid, variable aleatoria discreta, Bernoulli</a><br/>Sep 3, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NDhze3RViCc"><img width="140px" src="https://i.ytimg.com/vi/NDhze3RViCc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NDhze3RViCc">Sesión 28 - Prueba de hipótesis /1</a><br/>Apr 14, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk"><img width="140px" src="https://i.ytimg.com/vi/BGOFmXiAQmk/mqdefault.jpg"></a></td>
