@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-6XR4WWyF9I"><img width="140px" src="https://i.ytimg.com/vi/-6XR4WWyF9I/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-L2OwAjkpVw"><img width="140px" src="https://i.ytimg.com/vi/-L2OwAjkpVw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-L2OwAjkpVw">Estructura trabajo final 02 oct2025</a><br/>Oct 3, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-6XR4WWyF9I"><img width="140px" src="https://i.ytimg.com/vi/-6XR4WWyF9I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-6XR4WWyF9I">Proteinas clase 04 sep 2025</a><br/>Sep 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6BmacAuqn0o"><img width="140px" src="https://i.ytimg.com/vi/6BmacAuqn0o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6BmacAuqn0o">Clase 6 Esperanza y propiedades de linealidad, continuidad y discretitud</a><br/>Sep 4, 2025</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=iuT2RWUWG7A">Clase 5 Ejemplo sensibilidad especificidad covid, variable aleatoria discreta, Bernoulli</a><br/>Sep 3, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NDhze3RViCc"><img width="140px" src="https://i.ytimg.com/vi/NDhze3RViCc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NDhze3RViCc">Sesión 28 - Prueba de hipótesis /1</a><br/>Apr 14, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk"><img width="140px" src="https://i.ytimg.com/vi/BGOFmXiAQmk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk">Sesión 26 - Regresión logística &lpar;ejemplo&rpar;</a><br/>Apr 13, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
