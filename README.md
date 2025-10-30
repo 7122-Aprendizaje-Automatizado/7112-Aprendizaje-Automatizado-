@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MsxDWlK8oK0"><img width="140px" src="https://i.ytimg.com/vi/MsxDWlK8oK0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pi59IEFSGmk"><img width="140px" src="https://i.ytimg.com/vi/pi59IEFSGmk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=pi59IEFSGmk">Genomica 30-oct 2025</a><br/>Oct 30, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=MsxDWlK8oK0"><img width="140px" src="https://i.ytimg.com/vi/MsxDWlK8oK0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MsxDWlK8oK0">genética 23 oct-25</a><br/>Oct 23, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=PW5SoCQf9LM"><img width="140px" src="https://i.ytimg.com/vi/PW5SoCQf9LM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PW5SoCQf9LM">Clase 14 Primer modelo formal de una secuencia</a><br/>Oct 20, 2025</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=yhv8K1uinsI">segunda parte molecular 16-oct-25</a><br/>Oct 16, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-L2OwAjkpVw"><img width="140px" src="https://i.ytimg.com/vi/-L2OwAjkpVw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-L2OwAjkpVw">Estructura trabajo final 02 oct2025</a><br/>Oct 3, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-6XR4WWyF9I"><img width="140px" src="https://i.ytimg.com/vi/-6XR4WWyF9I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-6XR4WWyF9I">Proteinas clase 04 sep 2025</a><br/>Sep 4, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
