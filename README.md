@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ESvwc0R54e0"><img width="140px" src="https://i.ytimg.com/vi/ESvwc0R54e0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BeaZRBDVcZg"><img width="140px" src="https://i.ytimg.com/vi/BeaZRBDVcZg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BeaZRBDVcZg">evolución, clase 13 nov 25</a><br/>Nov 27, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ESvwc0R54e0"><img width="140px" src="https://i.ytimg.com/vi/ESvwc0R54e0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ESvwc0R54e0">Clase 22: Estimación filogenética por máxima verosimilitud</a><br/>Nov 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=PWZCqj07NdM"><img width="140px" src="https://i.ytimg.com/vi/PWZCqj07NdM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PWZCqj07NdM">Clase 21: Divergencia de Kulback Liebler y Máxima Verosimilitud</a><br/>Nov 19, 2025</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=mPwTzSBNPIc">Clase 20 Secuencias nulas, prueba de hipótesis, virus vs bacteria</a><br/>Nov 14, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pi59IEFSGmk"><img width="140px" src="https://i.ytimg.com/vi/pi59IEFSGmk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pi59IEFSGmk">Genomica 30-oct 2025</a><br/>Oct 30, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-6XR4WWyF9I"><img width="140px" src="https://i.ytimg.com/vi/-6XR4WWyF9I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-6XR4WWyF9I">Proteinas clase 04 sep 2025</a><br/>Sep 4, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
