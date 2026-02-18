@@ -16,14 +16,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=m4tQzLtuYfg"><img width="140px" src="https://i.ytimg.com/vi/m4tQzLtuYfg/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=M31DeZD_FEc"><img width="140px" src="https://i.ytimg.com/vi/M31DeZD_FEc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=M31DeZD_FEc">origen de la vida  04-feb-2016</a><br/>Feb 18, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=3NbFvH67QQs"><img width="140px" src="https://i.ytimg.com/vi/3NbFvH67QQs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3NbFvH67QQs">biomoléculas 11feb 2011</a><br/>Feb 18, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=twMQ3Kr2QXw"><img width="140px" src="https://i.ytimg.com/vi/twMQ3Kr2QXw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=twMQ3Kr2QXw">clase Dogma central 18-feb-2016</a><br/>Feb 18, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=m4tQzLtuYfg"><img width="140px" src="https://i.ytimg.com/vi/m4tQzLtuYfg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=m4tQzLtuYfg">Clase 4 Probabilidad del complemento, probabilidad total, teorema de bayes segunda versión</a><br/>Feb 18, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=RPw1oiuik6Y"><img width="140px" src="https://i.ytimg.com/vi/RPw1oiuik6Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RPw1oiuik6Y">Clase 3 Proba condicional y teorema de Bayes primera versión</a><br/>Feb 17, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=NDhze3RViCc"><img width="140px" src="https://i.ytimg.com/vi/NDhze3RViCc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=NDhze3RViCc">Sesión 28 - Prueba de hipótesis /1</a><br/>Apr 14, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk"><img width="140px" src="https://i.ytimg.com/vi/BGOFmXiAQmk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk">Sesión 26 - Regresión logística &lpar;ejemplo&rpar;</a><br/>Apr 13, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BFvX7Urm6b0"><img width="140px" src="https://i.ytimg.com/vi/BFvX7Urm6b0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BFvX7Urm6b0">Sesión 24 - Representación por juego del caos</a><br/>Mar 27, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
