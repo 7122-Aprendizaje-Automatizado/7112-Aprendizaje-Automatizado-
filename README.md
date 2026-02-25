@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=M31DeZD_FEc"><img width="140px" src="https://i.ytimg.com/vi/M31DeZD_FEc/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=T3bmqNrO-OY"><img width="140px" src="https://i.ytimg.com/vi/T3bmqNrO-OY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=T3bmqNrO-OY">Clase 5: Teorema de Bayes y su relación con los árboles filogenéticos, teoría del caos</a><br/>Feb 25, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=M31DeZD_FEc"><img width="140px" src="https://i.ytimg.com/vi/M31DeZD_FEc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=M31DeZD_FEc">origen de la vida  04-feb-2016</a><br/>Feb 18, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3NbFvH67QQs"><img width="140px" src="https://i.ytimg.com/vi/3NbFvH67QQs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3NbFvH67QQs">biomoléculas 11feb 2011</a><br/>Feb 18, 2026</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=twMQ3Kr2QXw">clase Dogma central 18-feb-2016</a><br/>Feb 18, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=m4tQzLtuYfg"><img width="140px" src="https://i.ytimg.com/vi/m4tQzLtuYfg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=m4tQzLtuYfg">Clase 4 Probabilidad del complemento, probabilidad total, teorema de bayes segunda versión</a><br/>Feb 18, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=RPw1oiuik6Y"><img width="140px" src="https://i.ytimg.com/vi/RPw1oiuik6Y/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=RPw1oiuik6Y">Clase 3 Proba condicional y teorema de Bayes primera versión</a><br/>Feb 17, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
