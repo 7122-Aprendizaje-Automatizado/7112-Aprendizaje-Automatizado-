@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aqtuTyTDzfA"><img width="140px" src="https://i.ytimg.com/vi/aqtuTyTDzfA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SBtDDnvzIpI"><img width="140px" src="https://i.ytimg.com/vi/SBtDDnvzIpI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SBtDDnvzIpI">clase virus 25-feb-26</a><br/>Feb 25, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=aqtuTyTDzfA"><img width="140px" src="https://i.ytimg.com/vi/aqtuTyTDzfA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aqtuTyTDzfA">Clase 6: Discretitud y continuidad</a><br/>Feb 25, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=T3bmqNrO-OY"><img width="140px" src="https://i.ytimg.com/vi/T3bmqNrO-OY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=T3bmqNrO-OY">Clase 5: Teorema de Bayes y su relación con los árboles filogenéticos, teoría del caos</a><br/>Feb 25, 2026</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=M31DeZD_FEc">origen de la vida  04-feb-2016</a><br/>Feb 18, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3NbFvH67QQs"><img width="140px" src="https://i.ytimg.com/vi/3NbFvH67QQs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3NbFvH67QQs">biomoléculas 11feb 2011</a><br/>Feb 18, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=twMQ3Kr2QXw"><img width="140px" src="https://i.ytimg.com/vi/twMQ3Kr2QXw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=twMQ3Kr2QXw">clase Dogma central 18-feb-2016</a><br/>Feb 18, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
