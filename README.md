@@ -16,14 +16,12 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=E-ecI4uHBzU"><img width="140px" src="https://i.ytimg.com/vi/E-ecI4uHBzU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=E-ecI4uHBzU">Clase 7: Tipos de variables, en probabilidad, estadística y. machine learning</a><br/>Mar 2, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=SBtDDnvzIpI"><img width="140px" src="https://i.ytimg.com/vi/SBtDDnvzIpI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SBtDDnvzIpI">clase virus 25-feb-26</a><br/>Feb 25, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=aqtuTyTDzfA"><img width="140px" src="https://i.ytimg.com/vi/aqtuTyTDzfA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=aqtuTyTDzfA">Clase 6: Discretitud y continuidad</a><br/>Feb 25, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=T3bmqNrO-OY"><img width="140px" src="https://i.ytimg.com/vi/T3bmqNrO-OY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=T3bmqNrO-OY">Clase 5: Teorema de Bayes y su relación con los árboles filogenéticos, teoría del caos</a><br/>Feb 25, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=M31DeZD_FEc"><img width="140px" src="https://i.ytimg.com/vi/M31DeZD_FEc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=M31DeZD_FEc">origen de la vida  04-feb-2016</a><br/>Feb 18, 2026</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NDhze3RViCc"><img width="140px" src="https://i.ytimg.com/vi/NDhze3RViCc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NDhze3RViCc">Sesión 28 - Prueba de hipótesis /1</a><br/>Apr 14, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk"><img width="140px" src="https://i.ytimg.com/vi/BGOFmXiAQmk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk">Sesión 26 - Regresión logística &lpar;ejemplo&rpar;</a><br/>Apr 13, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BFvX7Urm6b0"><img width="140px" src="https://i.ytimg.com/vi/BFvX7Urm6b0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BFvX7Urm6b0">Sesión 24 - Representación por juego del caos</a><br/>Mar 27, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=UL1TrR55LhA"><img width="140px" src="https://i.ytimg.com/vi/UL1TrR55LhA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UL1TrR55LhA">Sesión 20 - Leyes de Mendel /1</a><br/>Mar 15, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
