@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=So__DSBs59k"><img width="140px" src="https://i.ytimg.com/vi/So__DSBs59k/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZpJh2ixgfvE"><img width="140px" src="https://i.ytimg.com/vi/ZpJh2ixgfvE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZpJh2ixgfvE">Secuenciación 18-marzo-26</a><br/>Mar 18, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=So__DSBs59k"><img width="140px" src="https://i.ytimg.com/vi/So__DSBs59k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=So__DSBs59k">Clase 8: Variable aleatoria Bernoulli y Esperanza</a><br/>Mar 5, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NDhze3RViCc"><img width="140px" src="https://i.ytimg.com/vi/NDhze3RViCc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NDhze3RViCc">Sesión 28 - Prueba de hipótesis /1</a><br/>Apr 14, 2023</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk">Sesión 26 - Regresión logística &lpar;ejemplo&rpar;</a><br/>Apr 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=BFvX7Urm6b0"><img width="140px" src="https://i.ytimg.com/vi/BFvX7Urm6b0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BFvX7Urm6b0">Sesión 24 - Representación por juego del caos</a><br/>Mar 27, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=UL1TrR55LhA"><img width="140px" src="https://i.ytimg.com/vi/UL1TrR55LhA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UL1TrR55LhA">Sesión 20 - Leyes de Mendel /1</a><br/>Mar 15, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
