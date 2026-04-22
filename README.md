@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=lAjoQZD4bqI"><img width="140px" src="https://i.ytimg.com/vi/lAjoQZD4bqI/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=gUfB3neswE8"><img width="140px" src="https://i.ytimg.com/vi/gUfB3neswE8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gUfB3neswE8">Clase 16: Era pregenómica</a><br/>Apr 22, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=lAjoQZD4bqI"><img width="140px" src="https://i.ytimg.com/vi/lAjoQZD4bqI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lAjoQZD4bqI">Clase 15: Recombinación y proceso Poisson</a><br/>Apr 22, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=G4oGwd7SUPU"><img width="140px" src="https://i.ytimg.com/vi/G4oGwd7SUPU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=G4oGwd7SUPU">Clase 14: Teoría cromosómica</a><br/>Apr 20, 2026</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=E5mNnyZFAhs">Clase 13: 2a ley de mendel</a><br/>Apr 20, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NDhze3RViCc"><img width="140px" src="https://i.ytimg.com/vi/NDhze3RViCc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NDhze3RViCc">Sesión 28 - Prueba de hipótesis /1</a><br/>Apr 14, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk"><img width="140px" src="https://i.ytimg.com/vi/BGOFmXiAQmk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk">Sesión 26 - Regresión logística &lpar;ejemplo&rpar;</a><br/>Apr 13, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
