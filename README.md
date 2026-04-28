@@ -16,12 +16,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NDhze3RViCc"><img width="140px" src="https://i.ytimg.com/vi/NDhze3RViCc/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=uend7IwJXNA"><img width="140px" src="https://i.ytimg.com/vi/uend7IwJXNA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=uend7IwJXNA">genómica 15-Abril-26</a><br/>Apr 28, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cgcQeUONmho"><img width="140px" src="https://i.ytimg.com/vi/cgcQeUONmho/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cgcQeUONmho">clase evolución 22abril-26</a><br/>Apr 28, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=VM6730nEmQI"><img width="140px" src="https://i.ytimg.com/vi/VM6730nEmQI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VM6730nEmQI">clase genética 08 abril 26</a><br/>Apr 9, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NDhze3RViCc"><img width="140px" src="https://i.ytimg.com/vi/NDhze3RViCc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NDhze3RViCc">Sesión 28 - Prueba de hipótesis /1</a><br/>Apr 14, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk"><img width="140px" src="https://i.ytimg.com/vi/BGOFmXiAQmk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk">Sesión 26 - Regresión logística &lpar;ejemplo&rpar;</a><br/>Apr 13, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BFvX7Urm6b0"><img width="140px" src="https://i.ytimg.com/vi/BFvX7Urm6b0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BFvX7Urm6b0">Sesión 24 - Representación por juego del caos</a><br/>Mar 27, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=UL1TrR55LhA"><img width="140px" src="https://i.ytimg.com/vi/UL1TrR55LhA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UL1TrR55LhA">Sesión 20 - Leyes de Mendel /1</a><br/>Mar 15, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
