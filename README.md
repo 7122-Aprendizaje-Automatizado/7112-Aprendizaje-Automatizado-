@@ -16,14 +16,14 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=uend7IwJXNA"><img width="140px" src="https://i.ytimg.com/vi/uend7IwJXNA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tHkmRooQ0io"><img width="140px" src="https://i.ytimg.com/vi/tHkmRooQ0io/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tHkmRooQ0io">Clase 17 Primer modelo formal prueba de hipótesis</a><br/>Apr 29, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=3-B0k1nIErE"><img width="140px" src="https://i.ytimg.com/vi/3-B0k1nIErE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3-B0k1nIErE">Clase 18: Secuencias nulas y comparación de número de ORF con secuencias reales</a><br/>Apr 29, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=uend7IwJXNA"><img width="140px" src="https://i.ytimg.com/vi/uend7IwJXNA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uend7IwJXNA">genómica 15-Abril-26</a><br/>Apr 28, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cgcQeUONmho"><img width="140px" src="https://i.ytimg.com/vi/cgcQeUONmho/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cgcQeUONmho">clase evolución 22abril-26</a><br/>Apr 28, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VM6730nEmQI"><img width="140px" src="https://i.ytimg.com/vi/VM6730nEmQI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VM6730nEmQI">clase genética 08 abril 26</a><br/>Apr 9, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=NDhze3RViCc"><img width="140px" src="https://i.ytimg.com/vi/NDhze3RViCc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=NDhze3RViCc">Sesión 28 - Prueba de hipótesis /1</a><br/>Apr 14, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk"><img width="140px" src="https://i.ytimg.com/vi/BGOFmXiAQmk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk">Sesión 26 - Regresión logística &lpar;ejemplo&rpar;</a><br/>Apr 13, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
