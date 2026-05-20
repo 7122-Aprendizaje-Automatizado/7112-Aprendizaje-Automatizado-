@@ -16,7 +16,9 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 - Blog - [Reconocimiento de Patrones y Aprendizaje-Automatizado](https://sites.google.com/view/patronesciencias/inicio)
 
 ##  📺 	YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=uzlAIzljUC0"><img width="140px" src="https://i.ytimg.com/vi/uzlAIzljUC0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kVZI3fNFECw"><img width="140px" src="https://i.ytimg.com/vi/kVZI3fNFECw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kVZI3fNFECw">Clase: Covarianza, correlación, PCA</a><br/>May 20, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=uzlAIzljUC0"><img width="140px" src="https://i.ytimg.com/vi/uzlAIzljUC0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uzlAIzljUC0">Clase 19: Covarianza y correlación</a><br/>May 10, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=IPGNW6jUy5w"><img width="140px" src="https://i.ytimg.com/vi/IPGNW6jUy5w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IPGNW6jUy5w">Clase 20: Asociación vs Causalidad, intro al ML</a><br/>May 10, 2026</td></tr></table>
@@ -24,6 +26,4 @@ Tener grandes cantidades de datos sobre los que hay que buscar un subconjunto es
 <td><a href="https://www.youtube.com/watch?v=VM6730nEmQI">clase genética 08 abril 26</a><br/>Apr 9, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NDhze3RViCc"><img width="140px" src="https://i.ytimg.com/vi/NDhze3RViCc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NDhze3RViCc">Sesión 28 - Prueba de hipótesis /1</a><br/>Apr 14, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk"><img width="140px" src="https://i.ytimg.com/vi/BGOFmXiAQmk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BGOFmXiAQmk">Sesión 26 - Regresión logística &lpar;ejemplo&rpar;</a><br/>Apr 13, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
